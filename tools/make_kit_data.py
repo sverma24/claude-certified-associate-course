@@ -70,6 +70,8 @@ class Doc(FPDF):
         super().__init__()
         self.header_text = header_text
         self.set_auto_page_break(True, margin=18)
+        # A fixed date, so regenerating gives byte-identical files.
+        self.set_creation_date(datetime(2027, 1, 15, tzinfo=timezone.utc))
 
     def header(self):
         self.set_font("Helvetica", "B", 10)
