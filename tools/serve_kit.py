@@ -11,7 +11,7 @@ from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent / "bramblewick"
-ALLOWED = {"https://drive.google.com", "https://mail.google.com"}
+ALLOWED = {"https://drive.google.com", "https://mail.google.com", "https://claude.ai"}
 
 
 # Opened as a popup from the Drive or Gmail tab: it reads the requested kit
