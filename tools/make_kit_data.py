@@ -484,6 +484,7 @@ def main():
     make_company()
     SUMMIT.mkdir(parents=True, exist_ok=True)
     (SUMMIT / "client-brief.md").write_text(CLIENT_BRIEF.strip() + "\n")
+    write_pdf(SUMMIT / "client-brief.pdf", "Cascade Makers Guild", md_to_blocks(CLIENT_BRIEF))
     (SUMMIT / "kickoff-email-thread.txt").write_text(KICKOFF_THREAD.strip() + "\n")
     deposit = make_venue_contract()
     make_quotes()
