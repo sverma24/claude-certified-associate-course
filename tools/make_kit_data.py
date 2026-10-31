@@ -10,7 +10,7 @@ purpose, because the course catches them one domain at a time:
   - another caterer can't guarantee a nut-free kitchen
   - the 2025 price list is stale; the 2026 one is current
   - three people registered twice
-  - day-1 survey comments complain about the lunch line, Room B has bad audio
+  - last year's survey: day-1 comments complain about the lunch line, Room B had bad audio
 
 Run:  uv run python tools/make_kit_data.py
 """
@@ -34,9 +34,9 @@ INVOICES = SUMMIT / "vendor-invoices"
 GMAIL = ROOT / "gmail-seed"
 
 # The scenario's "now": six weeks before the summit.
-NOW = date(2027, 2, 4)
-DAY1 = date(2027, 3, 18)
-DAY2 = date(2027, 3, 19)
+NOW = date(2026, 11, 2)
+DAY1 = date(2026, 12, 10)
+DAY2 = date(2026, 12, 11)
 ATTENDEES = 400
 
 FIRST = ["Emma", "Liam", "Olivia", "Noah", "Ava", "James", "Sophia", "Lucas", "Mia",
@@ -71,7 +71,7 @@ class Doc(FPDF):
         self.header_text = header_text
         self.set_auto_page_break(True, margin=18)
         # A fixed date, so regenerating gives byte-identical files.
-        self.set_creation_date(datetime(2027, 1, 15, tzinfo=timezone.utc))
+        self.set_creation_date(datetime(2026, 10, 1, tzinfo=timezone.utc))
 
     def header(self):
         self.set_font("Helvetica", "B", 10)
@@ -130,7 +130,7 @@ def save_md_and_pdf(stem, header_text, md):
 # ---------- company documents ----------
 
 BRAND_GUIDE = """
-# Bramblewick Events: Brand and Tone Guide (v3, January 2027)
+# Bramblewick Events: Brand and Tone Guide (v3, September 2026)
 
 ## Who we are
 Bramblewick Events plans conferences, trade shows and community events across the Pacific Northwest. We are a team of 14 based in Portland, Oregon. Our promise to clients: "Every detail handled, nobody left out."
@@ -143,14 +143,14 @@ Use: attendee (not "delegate"), session (not "breakout"), accessible (not "handi
 Avoid: "world-class", "seamless", "synergy", "game-changing", "cutting-edge".
 
 ## Formats
-Client emails: a one-line purpose, then at most three short paragraphs, then the next step with a date. Attendee emails: subject line under 50 characters, the key fact in the first sentence. Dates are written as Thursday, March 18. Times as 9:30 AM. Prices always include whether tax and service are included.
+Client emails: a one-line purpose, then at most three short paragraphs, then the next step with a date. Attendee emails: subject line under 50 characters, the key fact in the first sentence. Dates are written as Thursday, December 10. Times as 9:30 AM. Prices always include whether tax and service are included.
 
 ## Sign-off
 Client emails end with the planner's name and direct line. Attendee emails end with "The Bramblewick team" and the help address help@bramblewick.example.com.
 """
 
 AI_POLICY = """
-# Bramblewick Events: AI Use Policy (v2, effective January 6, 2027)
+# Bramblewick Events: AI Use Policy (v2, effective September 8, 2026)
 
 ## 1. Approved tools
 Staff may use Claude through the company Team plan only. Personal AI accounts must not be used for company or client work.
@@ -194,7 +194,7 @@ Prices exclude tax. Valid January 1 to December 31, 2025.
 """
 
 PRICE_2026 = """
-# Bramblewick Events: Service Price List 2026-2027
+# Bramblewick Events: Service Price List 2026
 
 ## Planning fees
 Event planning fee: $21 per attendee (minimum $4,500).
@@ -203,11 +203,11 @@ AV coordinator: $1,100 per day.
 Registration desk staff: $42 per hour per person.
 
 ## Notes
-Prices exclude tax. Valid January 1, 2026 to June 30, 2027. Replaces the 2025 list.
+Prices exclude tax. Valid January 1 to December 31, 2026. Replaces the 2025 list.
 """
 
 CLIENT_BRIEF = f"""
-# Client brief: Cascade Makers Summit 2027
+# Client brief: Cascade Makers Summit 2026
 
 ## Client
 Cascade Makers Guild, a nonprofit for small makers and craft manufacturers in Oregon and Washington. Contact: Rachel Ostrander, Executive Director, (503) 555-0142.
@@ -225,21 +225,21 @@ Total event budget $148,000, set by the Guild's board. Venue and AV are already 
 KICKOFF_THREAD = """
 From: Rachel Ostrander <rachel@cascademakers.example.org>
 To: Bramblewick planning <plan@bramblewick.example.com>
-Date: Mon, 01 Feb 2027 08:12
+Date: Mon, 26 Oct 2026 08:12
 Subject: Re: Re: Summit - next steps??
 
 Hi all, sorry this is late. Board met Friday. They LOVED last year's speakers but the lunch line was a disaster, people missed the 1pm session. Can we fix that. Also budget is 148k total not 140k like I said before. Oh and Theo wants a "chatbot" for attendee questions?? not sure what that means, can you advise. The dinner has to be for everyone this time, last year only half fit.
 
-Also we need to send the welcome email by Feb 15 latest. And someone asked about vegan + nut allergy options, we had complaints. Sorry for the essay.
+Also we need to send the welcome email by Nov 13 latest. And someone asked about vegan + nut allergy options, we had complaints. Sorry for the essay.
 Rachel
 
 > From: Tessa Morrow <tessa@bramblewick.example.com>
-> Date: Thu, 28 Jan 2027 16:40
-> Hi Rachel, quick check-in before your board meeting. Do you have final numbers? We're holding Alder Point Hall for March 18-19 and need the catering decision by Feb 12 to keep the dates.
+> Date: Thu, 22 Oct 2026 16:40
+> Hi Rachel, quick check-in before your board meeting. Do you have final numbers? We're holding Alder Point Hall for December 10-11 and need the catering decision by Nov 6 to keep the dates.
 > Tessa
 
 >> From: Rachel Ostrander
->> Date: Tue, 19 Jan 2027 10:03
+>> Date: Tue, 13 Oct 2026 10:03
 >> We're thinking 400 people this year, maybe a few more. Budget around 140k. Will confirm after the board.
 """
 
@@ -257,8 +257,8 @@ def make_venue_contract():
     deposit = round(subtotal * 0.30)
     blocks = [
         ("h1", "Alder Point Hall - Event Space Agreement"),
-        ("p", f"Agreement No. APH-2027-0318. Client: Bramblewick Events on behalf of Cascade Makers Guild. "
-              f"Event dates: {us(DAY1)} and {us(DAY2)}. Signed {us(date(2027, 1, 11))}."),
+        ("p", f"Agreement No. APH-2026-1210. Client: Bramblewick Events on behalf of Cascade Makers Guild. "
+              f"Event dates: {us(DAY1)} and {us(DAY2)}. Signed {us(date(2026, 10, 5))}."),
         ("h2", "Section 1. Spaces"),
         ("p", "Main Hall (theater seating up to 450; banquet seating up to 380). Exhibitor Hall (60 tables). "
               "Room A (120 seats). Room B (90 seats)."),
@@ -304,7 +304,7 @@ def make_quotes():
             ("pagebreak", ""),
             ("h2", "Terms"),
             ("small", "Final numbers are due 10 days before the event. A cancellation fee of 50% of the estimated total applies "
-                      "to cancellations made within 21 days of the event. Prices valid until 02/28/2027."),
+                      "to cancellations made within 21 days of the event. Prices valid until 11/30/2026."),
         ],
         "ridgeline-provisions": [
             ("h1", "Ridgeline Provisions - Proposal"),
@@ -409,14 +409,14 @@ def make_survey(rng):
         r["comment"] = (rng.choice(day1_lunch) if roll < 0.18 else
                         rng.choice(room_b) if roll < 0.30 else rng.choice(good))
         rows.append(r)
-    write_csv(SUMMIT / "survey-responses.csv", rows)
+    write_csv(SUMMIT / "survey-2025-summit.csv", rows)
 
 
 def make_invoices(rng):
     # Deliberately messy names, the kind that pile up in a shared folder.
     items = [
         ("INV_0347 final(2).pdf", "Juniper Table Catering", "Deposit, Q-2207 (25% of $69,296)", 17_324),
-        ("scan0012.pdf", "Alder Point Hall", "Deposit, APH-2027-0318", 14_580),
+        ("scan0012.pdf", "Alder Point Hall", "Deposit, APH-2026-1210", 14_580),
         ("Lumen Rig AV - invoice.pdf", "Lumen Rig AV", "Microphones and Room B speakers", 2_340),
         ("receipt (1).pdf", "Fernway Signs", "Wayfinding signs, 24 pieces", 1_180),
         ("IMG_4471.pdf", "Portland Badge Print", "Name badges, 420", 610),
@@ -442,23 +442,23 @@ def make_gmail_seed():
     GMAIL.mkdir(parents=True, exist_ok=True)
     mails = [
         ("rachel@cascademakers.example.org", "Re: Re: Summit - next steps??",
-         datetime(2027, 2, 1, 8, 12), KICKOFF_THREAD.split("\n\n", 1)[1]),
+         datetime(2026, 10, 26, 8, 12), KICKOFF_THREAD.split("\n\n", 1)[1]),
         ("events@juniper-table.example.com", "Quote Q-2207 - any questions?",
-         datetime(2027, 2, 2, 11, 5),
-         "Hi Tessa,\n\nJust checking you received our quote Q-2207. We can hold March 18-19 until Feb 12. "
+         datetime(2026, 10, 27, 11, 5),
+         "Hi Tessa,\n\nJust checking you received our quote Q-2207. We can hold December 10-11 until Nov 6. "
          "Happy to walk through the menu or the terms.\n\nBest,\nCole Bastien\nJuniper Table Catering"),
         ("simone@alderpointhall.example.com", "Insurance certificate reminder",
-         datetime(2027, 2, 3, 9, 40),
+         datetime(2026, 10, 28, 9, 40),
          "Hello Bramblewick team,\n\nA reminder that proof of event liability insurance is due 30 days before "
          "the event (Section 6). Also, if you need the service lift for the Exhibitor Hall, please book it now.\n\n"
          "Simone Achterberg\nEvents Manager, Alder Point Hall"),
         ("graham@bramblewick.example.com", "Before we use Claude on the summit",
-         datetime(2027, 2, 3, 15, 22),
+         datetime(2026, 10, 28, 15, 22),
          "Team,\n\nI keep hearing Claude will 'run' the summit. It won't. Before anyone uploads the attendee list, "
          "read section 3 of the AI policy. And I want to see real numbers on time saved before we roll this out "
          "to the other events.\n\nGraham"),
         ("hello@lumenrig.example.com", "Room B audio fix",
-         datetime(2027, 2, 3, 17, 2),
+         datetime(2026, 10, 28, 17, 2),
          "Hi,\n\nWe've added two extra speakers for Room B after last year's feedback. Invoice attached separately. "
          "Hearing loop for the Main Hall is booked.\n\nPriya Halvorsen\nLumen Rig AV"),
     ]

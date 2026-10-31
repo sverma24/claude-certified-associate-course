@@ -1,4 +1,4 @@
-# Bramblewick Events: AI Use Policy (v2, effective January 6, 2027)
+# Bramblewick Events: AI Use Policy (v2, effective September 8, 2026)
 
 ## 1. Approved tools
 Staff may use Claude through the company Team plan only. Personal AI accounts must not be used for company or client work.

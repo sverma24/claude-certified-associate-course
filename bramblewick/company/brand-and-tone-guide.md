@@ -1,4 +1,4 @@
-# Bramblewick Events: Brand and Tone Guide (v3, January 2027)
+# Bramblewick Events: Brand and Tone Guide (v3, September 2026)
 
 ## Who we are
 Bramblewick Events plans conferences, trade shows and community events across the Pacific Northwest. We are a team of 14 based in Portland, Oregon. Our promise to clients: "Every detail handled, nobody left out."
@@ -11,7 +11,7 @@ Use: attendee (not "delegate"), session (not "breakout"), accessible (not "handi
 Avoid: "world-class", "seamless", "synergy", "game-changing", "cutting-edge".
 
 ## Formats
-Client emails: a one-line purpose, then at most three short paragraphs, then the next step with a date. Attendee emails: subject line under 50 characters, the key fact in the first sentence. Dates are written as Thursday, March 18. Times as 9:30 AM. Prices always include whether tax and service are included.
+Client emails: a one-line purpose, then at most three short paragraphs, then the next step with a date. Attendee emails: subject line under 50 characters, the key fact in the first sentence. Dates are written as Thursday, December 10. Times as 9:30 AM. Prices always include whether tax and service are included.
 
 ## Sign-off
 Client emails end with the planner's name and direct line. Attendee emails end with "The Bramblewick team" and the help address help@bramblewick.example.com.

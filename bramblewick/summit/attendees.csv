@@ -1,401 +1,401 @@
 reg_id,first_name,last_name,email,phone,company,ticket_type,dietary_needs,accessibility_needs,registered_on
-R1000,Sophia,Turner,sophia.turner@example.net,(503) 555-0125,Lantern Glass Studio,General,,ASL interpreter,01/14/2027
-R1001,Ryan,Reed,ryan.reed@example.org,(503) 555-0143,Pinecrest Print Shop,General,,,11/20/2026
-R1002,Emma,Bennett,emma.bennett@example.net,(503) 555-0120,Pinecrest Print Shop,General,,,01/29/2027
-R1003,Zoe,Okafor,zoe.okafor@example.com,(503) 555-0156,Tidewater Ceramics,Student,,,01/26/2027
-R1004,Elijah,Abbott,elijah.abbott@example.org,(503) 555-0151,Northfold Textiles,General,,,12/24/2026
-R1005,Mia,Ramirez,mia.ramirez@example.com,(503) 555-0195,Kestrel Bikes,General,,,01/12/2027
-R1006,Julia,Abbott,julia.abbott@example.org,(503) 555-0188,Copper Kettle Forge,Exhibitor,,,12/25/2026
-R1007,Ryan,Morgan,ryan.morgan@example.com,(503) 555-0164,Saltmarsh Soap Co.,General,,,12/12/2026
-R1008,Owen,Parker,owen.parker@example.net,(503) 555-0100,Stonefield Knives,General,,,12/29/2026
-R1009,Ava,Reed,ava.reed@example.org,(503) 555-0148,Ashgrove Leather,General,shellfish allergy,,12/22/2026
-R1010,Ryan,Bennett,ryan.bennett@example.net,(503) 555-0157,Northfold Textiles,General,vegetarian,,01/20/2027
-R1011,Hannah,Collins,hannah.collins@example.com,(503) 555-0181,Hollow Oak Candles,General,,,01/31/2027
-R1012,Chloe,Vance,chloe.vance@example.com,(503) 555-0162,Copper Kettle Forge,Exhibitor,vegetarian,,01/08/2027
-R1013,Nora,Ramirez,nora.ramirez@example.net,(503) 555-0162,Mossback Furniture,General,,,12/18/2026
-R1014,Owen,Chen,owen.chen@example.com,(503) 555-0130,Copper Kettle Forge,Exhibitor,,,11/28/2026
-R1015,Daniel,Brooks,daniel.brooks@example.com,(503) 555-0190,Fernway Woodworks,General,,,12/07/2026
-R1016,Lily,Ward,lily.ward@example.org,(503) 555-0134,Copper Kettle Forge,General,nut allergy,,01/05/2027
-R1017,Grace,Ward,grace.ward@example.org,(503) 555-0102,Stonefield Knives,General,,,11/18/2026
-R1018,Ella,Turner,ella.turner@example.com,(503) 555-0110,Pinecrest Print Shop,General,vegan,ASL interpreter,12/07/2026
-R1019,Owen,Sullivan,owen.sullivan@example.net,(503) 555-0182,Stonefield Knives,Exhibitor,shellfish allergy,,12/08/2026
-R1020,Wyatt,Chen,wyatt.chen@example.net,(503) 555-0102,Pinecrest Print Shop,Exhibitor,,,01/27/2027
-R1021,Ava,Carter,ava.carter@example.net,(503) 555-0197,Ashgrove Leather,General,,,12/17/2026
-R1022,Ivy,Okafor,ivy.okafor@example.net,(503) 555-0115,Stonefield Knives,General,vegan,,12/03/2026
-R1023,Ryan,Vance,ryan.vance@example.com,(503) 555-0165,Lantern Glass Studio,General,,,01/02/2027
-R1024,Ethan,Lindqvist,ethan.lindqvist@example.org,(503) 555-0185,Ironbark Tools,Exhibitor,,,01/02/2027
-R1025,Nathan,Ward,nathan.ward@example.net,(503) 555-0177,Hollow Oak Candles,General,,,01/13/2027
-R1026,Leah,Kim,leah.kim@example.net,(503) 555-0120,Ironbark Tools,Exhibitor,,,11/17/2026
-R1027,Leah,Walker,leah.walker@example.net,(503) 555-0175,Copper Kettle Forge,General,,,12/01/2026
-R1028,Hannah,Morgan,hannah.morgan@example.net,(503) 555-0192,Ironbark Tools,Student,,,01/03/2027
-R1029,Ruby,Price,ruby.price@example.org,(503) 555-0151,Lantern Glass Studio,Speaker,,,11/28/2026
-R1030,Daniel,Carter,daniel.carter@example.net,(503) 555-0163,Bluefen Pottery,Speaker,nut allergy,,12/22/2026
-R1031,Lily,Carter,lily.carter@example.org,(503) 555-0197,Lantern Glass Studio,General,vegetarian,,01/03/2027
-R1032,Leah,Vance,leah.vance@example.org,(503) 555-0174,Mossback Furniture,General,,,12/03/2026
-R1033,Noah,Okafor,noah.okafor@example.org,(503) 555-0102,Ashgrove Leather,General,,,12/11/2026
-R1034,Ivy,Sullivan,ivy.sullivan@example.com,(503) 555-0146,Mossback Furniture,General,,,12/21/2026
-R1035,Wyatt,Kim,wyatt.kim@example.net,(503) 555-0180,Hollow Oak Candles,General,,,01/19/2027
-R1036,Noah,Collins,noah.collins@example.com,(503) 555-0167,Pinecrest Print Shop,General,gluten-free,,12/04/2026
-R1037,Liam,Parker,liam.parker@example.org,(503) 555-0114,Mossback Furniture,General,nut allergy,,12/15/2026
-R1038,Ivy,Turner,ivy.turner@example.net,(503) 555-0196,Pinecrest Print Shop,General,,,11/16/2026
-R1039,Grace,Morgan,grace.morgan@example.org,(503) 555-0154,Lantern Glass Studio,General,vegan,,11/30/2026
-R1040,Tyler,Turner,tyler.turner@example.com,(503) 555-0193,Wrenfield Paper,Exhibitor,,,12/17/2026
-R1041,Ava,Delgado,ava.delgado@example.org,(503) 555-0161,Bluefen Pottery,Exhibitor,,,12/15/2026
-R1042,Lily,Chen,lily.chen@example.org,(503) 555-0121,Lantern Glass Studio,Exhibitor,gluten-free,,12/24/2026
-R1043,Lucas,Sullivan,lucas.sullivan@example.org,(503) 555-0142,Saltmarsh Soap Co.,General,,wheelchair access,01/30/2027
-R1044,Chloe,Walker,chloe.walker@example.org,(503) 555-0135,Kestrel Bikes,Exhibitor,,,01/23/2027
-R1045,Emma,Brooks,emma.brooks@example.com,(503) 555-0148,Ashgrove Leather,General,,,12/23/2026
-R1046,Ethan,Turner,ethan.turner@example.com,(503) 555-0192,Copper Kettle Forge,General,,,12/27/2026
-R1047,Nathan,Chen,nathan.chen@example.com,(503) 555-0141,Hollow Oak Candles,General,vegetarian,,01/16/2027
-R1048,Ivy,Bennett,ivy.bennett@example.org,(503) 555-0117,Pinecrest Print Shop,General,,,11/17/2026
-R1049,Leah,Carter,leah.carter@example.org,(503) 555-0195,Tidewater Ceramics,General,vegan,,11/29/2026
-R1050,James,Vance,james.vance@example.net,(503) 555-0142,Ironbark Tools,Speaker,,,01/15/2027
-R1051,Grace,Chen,grace.chen@example.com,(503) 555-0169,Saltmarsh Soap Co.,General,,,01/23/2027
-R1052,Mia,Parker,mia.parker@example.com,(503) 555-0180,Ashgrove Leather,General,,,01/08/2027
-R1053,Marcus,Price,marcus.price@example.org,(503) 555-0112,Copper Kettle Forge,General,nut allergy,,01/23/2027
-R1054,Chloe,Delgado,chloe.delgado@example.org,(503) 555-0177,Saltmarsh Soap Co.,General,,,01/18/2027
-R1055,Daniel,Hayes,daniel.hayes@example.com,(503) 555-0157,Bluefen Pottery,General,,,01/03/2027
-R1056,Chloe,Ward,chloe.ward@example.com,(503) 555-0109,Mossback Furniture,General,vegan,,11/19/2026
-R1057,Ethan,Ward,ethan.ward@example.com,(503) 555-0148,Northfold Textiles,Speaker,,,01/31/2027
-R1058,Isaac,Lindqvist,isaac.lindqvist@example.com,(503) 555-0137,Ironbark Tools,Student,,,12/06/2026
-R1059,Leah,Nguyen,leah.nguyen@example.net,(503) 555-0155,Kestrel Bikes,Student,,,11/29/2026
-R1060,Maya,Hollis,maya.hollis@example.net,(503) 555-0104,Wrenfield Paper,General,,,01/25/2027
-R1061,Nathan,Walker,nathan.walker@example.org,(503) 555-0196,Tidewater Ceramics,Student,nut allergy,,12/23/2026
-R1062,James,Morgan,james.morgan@example.org,(503) 555-0120,Tidewater Ceramics,General,,,12/21/2026
-R1063,Olivia,Bennett,olivia.bennett@example.org,(503) 555-0176,Stonefield Knives,General,gluten-free,,11/28/2026
-R1064,Zoe,Parker,zoe.parker@example.com,(503) 555-0116,Bluefen Pottery,Student,vegan,,12/19/2026
-R1065,Owen,Vance,owen.vance@example.net,(503) 555-0196,Northfold Textiles,General,gluten-free,,01/20/2027
-R1066,Daniel,Delgado,daniel.delgado@example.org,(503) 555-0105,Stonefield Knives,General,,wheelchair access,01/28/2027
-R1067,Hannah,Parker,hannah.parker@example.com,(503) 555-0193,Ashgrove Leather,General,vegetarian,,11/20/2026
-R1068,Ethan,Vance,ethan.vance@example.net,(503) 555-0188,Mossback Furniture,General,vegetarian,,11/22/2026
-R1069,Elijah,Parker,elijah.parker@example.net,(503) 555-0119,Saltmarsh Soap Co.,General,,,01/23/2027
-R1070,Marcus,Turner,marcus.turner@example.com,(503) 555-0122,Wrenfield Paper,Speaker,,,12/02/2026
-R1071,James,Walker,james.walker@example.org,(503) 555-0123,Copper Kettle Forge,General,vegan,,01/26/2027
-R1072,Grace,Nguyen,grace.nguyen@example.org,(503) 555-0172,Hollow Oak Candles,General,,,01/25/2027
-R1073,Elijah,Carter,elijah.carter@example.com,(503) 555-0164,Tidewater Ceramics,General,,,12/10/2026
-R1074,Ella,Kim,ella.kim@example.com,(503) 555-0167,Stonefield Knives,Exhibitor,,,01/19/2027
-R1075,Carlos,Ramirez,carlos.ramirez@example.net,(503) 555-0146,Northfold Textiles,Exhibitor,,,11/17/2026
-R1076,Wyatt,Sullivan,wyatt.sullivan@example.org,(503) 555-0119,Copper Kettle Forge,General,,,11/28/2026
-R1077,Nora,Collins,nora.collins@example.org,(503) 555-0176,Lantern Glass Studio,General,,,01/26/2027
-R1078,Maya,Bennett,maya.bennett@example.net,(503) 555-0178,Pinecrest Print Shop,General,vegetarian,wheelchair access,11/23/2026
-R1079,Lucas,Bennett,lucas.bennett@example.org,(503) 555-0199,Saltmarsh Soap Co.,General,,,01/06/2027
-R1080,Ruby,Carter,ruby.carter@example.com,(503) 555-0155,Hollow Oak Candles,General,gluten-free,,01/16/2027
-R1081,Hannah,Chen,hannah.chen@example.net,(503) 555-0127,Pinecrest Print Shop,Exhibitor,,,02/01/2027
-R1082,James,Chen,james.chen@example.org,(503) 555-0140,Mossback Furniture,General,,wheelchair access,01/25/2027
-R1083,Grace,Walker,grace.walker@example.net,(503) 555-0114,Stonefield Knives,General,,,12/19/2026
-R1084,Sadie,Ramirez,sadie.ramirez@example.net,(503) 555-0145,Wrenfield Paper,General,vegan,wheelchair access,01/26/2027
-R1085,Ethan,Carter,ethan.carter@example.net,(503) 555-0108,Kestrel Bikes,Speaker,,,12/26/2026
-R1086,Owen,Carter,owen.carter@example.com,(503) 555-0183,Ironbark Tools,General,,,12/10/2026
-R1087,Sophia,Ramirez,sophia.ramirez@example.net,(503) 555-0145,Tidewater Ceramics,Student,,,11/21/2026
-R1088,Daniel,Abbott,daniel.abbott@example.org,(503) 555-0139,Fernway Woodworks,General,,,12/10/2026
-R1089,James,Lindqvist,james.lindqvist@example.org,(503) 555-0166,Ashgrove Leather,General,vegan,,01/20/2027
-R1090,Lily,Hollis,lily.hollis@example.net,(503) 555-0189,Hollow Oak Candles,General,,,01/18/2027
-R1091,Emma,Nguyen,emma.nguyen@example.com,(503) 555-0119,Bluefen Pottery,General,nut allergy,,12/18/2026
-R1092,Julia,Hollis,julia.hollis@example.net,(503) 555-0166,Tidewater Ceramics,General,,ASL interpreter,01/14/2027
-R1093,Ella,Collins,ella.collins@example.org,(503) 555-0101,Hollow Oak Candles,General,,,01/16/2027
-R1094,Tyler,Lindqvist,tyler.lindqvist@example.net,(503) 555-0108,Mossback Furniture,General,,,12/21/2026
-R1095,Ella,Bennett,ella.bennett@example.org,(503) 555-0134,Ironbark Tools,General,,,01/09/2027
-R1096,Sophia,Hayes,sophia.hayes@example.com,(503) 555-0173,Bluefen Pottery,General,,,01/26/2027
-R1097,Zoe,Turner,zoe.turner@example.org,(503) 555-0197,Stonefield Knives,Exhibitor,gluten-free,,11/23/2026
-R1098,Ivy,Hayes,ivy.hayes@example.net,(503) 555-0114,Stonefield Knives,General,vegetarian,wheelchair access,12/22/2026
-R1099,Olivia,Sullivan,olivia.sullivan@example.net,(503) 555-0167,Mossback Furniture,General,,,11/26/2026
-R1100,Grace,Carter,grace.carter@example.org,(503) 555-0174,Tidewater Ceramics,General,vegetarian,hearing loop,12/14/2026
-R1101,Sadie,Chen,sadie.chen@example.org,(503) 555-0154,Ironbark Tools,General,,wheelchair access,01/18/2027
-R1102,Ivy,Hollis,ivy.hollis@example.com,(503) 555-0103,Bluefen Pottery,General,nut allergy,,01/03/2027
-R1103,Noah,Reed,noah.reed@example.net,(503) 555-0183,Fernway Woodworks,General,,,01/31/2027
-R1104,Liam,Morgan,liam.morgan@example.org,(503) 555-0117,Tidewater Ceramics,General,,,01/29/2027
-R1105,Leah,Collins,leah.collins@example.net,(503) 555-0161,Ironbark Tools,General,,,01/07/2027
-R1106,Ava,Morgan,ava.morgan@example.com,(503) 555-0170,Kestrel Bikes,General,,,11/26/2026
-R1107,Wyatt,Parker,wyatt.parker@example.com,(503) 555-0169,Ashgrove Leather,Student,,,12/30/2026
-R1108,Mia,Vance,mia.vance@example.net,(503) 555-0188,Pinecrest Print Shop,Student,gluten-free,,01/12/2027
-R1109,Chloe,Collins,chloe.collins@example.com,(503) 555-0139,Fernway Woodworks,General,vegan,,12/03/2026
-R1110,Lily,Lindqvist,lily.lindqvist@example.com,(503) 555-0100,Lantern Glass Studio,Exhibitor,,,12/22/2026
-R1111,Ryan,Ramirez,ryan.ramirez@example.org,(503) 555-0162,Northfold Textiles,Exhibitor,,,12/11/2026
-R1112,Ryan,Hollis,ryan.hollis@example.com,(503) 555-0178,Wrenfield Paper,General,,,12/28/2026
-R1113,Ava,Parker,ava.parker@example.org,(503) 555-0131,Bluefen Pottery,Student,,,12/20/2026
-R1114,Liam,Carter,liam.carter@example.org,(503) 555-0153,Stonefield Knives,General,shellfish allergy,,01/03/2027
-R1115,Sadie,Price,sadie.price@example.com,(503) 555-0119,Hollow Oak Candles,General,gluten-free,,12/20/2026
-R1116,Ava,Collins,ava.collins@example.org,(503) 555-0152,Hollow Oak Candles,General,,,01/02/2027
-R1117,Owen,Kim,owen.kim@example.com,(503) 555-0143,Stonefield Knives,General,,,11/17/2026
-R1118,Ryan,Ward,ryan.ward@example.org,(503) 555-0176,Stonefield Knives,General,,,12/03/2026
-R1119,Daniel,Morgan,daniel.morgan@example.net,(503) 555-0133,Tidewater Ceramics,Exhibitor,vegan,,12/03/2026
-R1120,Ethan,Walker,ethan.walker@example.net,(503) 555-0132,Bluefen Pottery,General,vegetarian,,01/13/2027
-R1121,Sadie,Nguyen,sadie.nguyen@example.com,(503) 555-0132,Copper Kettle Forge,Student,,,12/09/2026
-R1122,Ava,Ward,ava.ward@example.org,(503) 555-0120,Kestrel Bikes,General,,,12/17/2026
-R1123,Noah,Morgan,noah.morgan@example.org,(503) 555-0190,Bluefen Pottery,General,vegetarian,,12/17/2026
-R1124,Carlos,Sullivan,carlos.sullivan@example.com,(503) 555-0194,Lantern Glass Studio,General,gluten-free,hearing loop,01/28/2027
-R1125,Marcus,Lindqvist,marcus.lindqvist@example.com,(503) 555-0113,Pinecrest Print Shop,Student,,,01/14/2027
-R1126,Ethan,Brooks,ethan.brooks@example.net,(503) 555-0157,Bluefen Pottery,Exhibitor,,wheelchair access,12/04/2026
-R1127,Zoe,Delgado,zoe.delgado@example.net,(503) 555-0141,Fernway Woodworks,General,gluten-free,,01/08/2027
-R1128,Grace,Collins,grace.collins@example.org,(503) 555-0146,Copper Kettle Forge,General,,,11/26/2026
-R1129,Elijah,Collins,elijah.collins@example.org,(503) 555-0115,Kestrel Bikes,General,vegetarian,,12/28/2026
-R1130,Hannah,Nguyen,hannah.nguyen@example.net,(503) 555-0117,Copper Kettle Forge,General,nut allergy,,12/17/2026
-R1131,Ryan,Okafor,ryan.okafor@example.com,(503) 555-0150,Fernway Woodworks,General,,wheelchair access,12/15/2026
-R1132,Chloe,Brooks,chloe.brooks@example.net,(503) 555-0112,Pinecrest Print Shop,General,,,01/12/2027
-R1133,Sadie,Turner,sadie.turner@example.com,(503) 555-0174,Kestrel Bikes,General,,,12/29/2026
-R1134,Hannah,Delgado,hannah.delgado@example.org,(503) 555-0101,Hollow Oak Candles,General,,,11/23/2026
-R1135,Marcus,Morgan,marcus.morgan@example.org,(503) 555-0111,Ashgrove Leather,General,vegetarian,,01/03/2027
-R1136,Owen,Collins,owen.collins@example.net,(503) 555-0147,Bluefen Pottery,Speaker,,,12/23/2026
-R1137,Zoe,Ward,zoe.ward@example.org,(503) 555-0121,Stonefield Knives,General,vegan,reserved front seating,12/28/2026
-R1138,Ethan,Abbott,ethan.abbott@example.org,(503) 555-0182,Ironbark Tools,Student,,hearing loop,01/10/2027
-R1139,Grace,Okafor,grace.okafor@example.net,(503) 555-0198,Lantern Glass Studio,General,nut allergy,,11/16/2026
-R1140,Lucas,Foster,lucas.foster@example.com,(503) 555-0124,Lantern Glass Studio,General,,,12/27/2026
-R1141,Julia,Hayes,julia.hayes@example.com,(503) 555-0157,Stonefield Knives,Exhibitor,,,01/12/2027
-R1142,Nora,Morgan,nora.morgan@example.net,(503) 555-0151,Lantern Glass Studio,General,nut allergy,,11/25/2026
-R1143,Olivia,Reed,olivia.reed@example.org,(503) 555-0183,Fernway Woodworks,General,,ASL interpreter,12/07/2026
-R1144,Ruby,Vance,ruby.vance@example.com,(503) 555-0124,Kestrel Bikes,General,,,11/24/2026
-R1145,Ethan,Kim,ethan.kim@example.net,(503) 555-0193,Saltmarsh Soap Co.,General,,,11/27/2026
-R1146,Aaron,Abbott,aaron.abbott@example.net,(503) 555-0104,Pinecrest Print Shop,General,,,01/03/2027
-R1147,Ethan,Price,ethan.price@example.net,(503) 555-0174,Kestrel Bikes,Exhibitor,vegetarian,,01/10/2027
-R1148,Emma,Price,emma.price@example.com,(503) 555-0177,Copper Kettle Forge,General,,,12/18/2026
-R1149,Ivy,Nguyen,ivy.nguyen@example.com,(503) 555-0101,Ashgrove Leather,Exhibitor,,,11/24/2026
-R1150,Noah,Ramirez,noah.ramirez@example.org,(503) 555-0163,Pinecrest Print Shop,General,,,11/21/2026
-R1151,Leah,Reed,leah.reed@example.net,(503) 555-0153,Lantern Glass Studio,General,,,01/14/2027
-R1152,Nora,Okafor,nora.okafor@example.net,(503) 555-0154,Hollow Oak Candles,General,,,12/09/2026
-R1153,Aaron,Collins,aaron.collins@example.com,(503) 555-0179,Wrenfield Paper,General,,,01/15/2027
-R1154,Ivy,Walker,ivy.walker@example.com,(503) 555-0197,Saltmarsh Soap Co.,General,vegan,,01/16/2027
-R1155,Ava,Foster,ava.foster@example.net,(503) 555-0153,Saltmarsh Soap Co.,General,gluten-free,,11/28/2026
-R1156,Marcus,Okafor,marcus.okafor@example.org,(503) 555-0116,Bluefen Pottery,Exhibitor,,,12/10/2026
-R1157,Olivia,Price,olivia.price@example.net,(503) 555-0143,Northfold Textiles,General,,,12/11/2026
-R1158,Maya,Abbott,maya.abbott@example.com,(503) 555-0135,Mossback Furniture,Exhibitor,vegetarian,,01/20/2027
-R1159,Daniel,Kim,daniel.kim@example.com,(503) 555-0136,Northfold Textiles,General,,,01/24/2027
-R1160,Maya,Brooks,maya.brooks@example.org,(503) 555-0128,Hollow Oak Candles,General,,,01/18/2027
-R1161,Sophia,Nguyen,sophia.nguyen@example.org,(503) 555-0125,Ironbark Tools,General,,,01/20/2027
-R1162,Elijah,Ramirez,elijah.ramirez@example.net,(503) 555-0143,Saltmarsh Soap Co.,Exhibitor,,,01/07/2027
-R1163,Ella,Delgado,ella.delgado@example.com,(503) 555-0110,Lantern Glass Studio,General,,,01/25/2027
-R1164,Ethan,Nguyen,ethan.nguyen@example.com,(503) 555-0182,Saltmarsh Soap Co.,Speaker,,,12/27/2026
-R1165,Aaron,Kim,aaron.kim@example.com,(503) 555-0172,Mossback Furniture,General,vegetarian,,12/27/2026
-R1166,Lucas,Brooks,lucas.brooks@example.com,(503) 555-0146,Hollow Oak Candles,Exhibitor,gluten-free,,12/08/2026
-R1167,Isaac,Morgan,isaac.morgan@example.org,(503) 555-0121,Copper Kettle Forge,General,shellfish allergy,,12/05/2026
-R1168,Sophia,Kim,sophia.kim@example.net,(503) 555-0193,Bluefen Pottery,Student,,ASL interpreter,12/19/2026
-R1169,Ivy,Price,ivy.price@example.net,(503) 555-0158,Kestrel Bikes,General,,,12/12/2026
-R1170,Wyatt,Abbott,wyatt.abbott@example.com,(503) 555-0186,Bluefen Pottery,General,,,12/25/2026
-R1171,Grace,Hayes,grace.hayes@example.org,(503) 555-0173,Saltmarsh Soap Co.,General,vegetarian,,12/09/2026
-R1172,Noah,Nguyen,noah.nguyen@example.com,(503) 555-0160,Bluefen Pottery,General,,,12/28/2026
-R1173,Ava,Walker,ava.walker@example.net,(503) 555-0189,Mossback Furniture,General,nut allergy,,12/11/2026
-R1174,Sophia,Collins,sophia.collins@example.net,(503) 555-0109,Hollow Oak Candles,Exhibitor,vegan,,01/18/2027
-R1175,Elijah,Lindqvist,elijah.lindqvist@example.net,(503) 555-0190,Ashgrove Leather,Speaker,vegetarian,,01/15/2027
-R1176,Daniel,Bennett,daniel.bennett@example.com,(503) 555-0167,Lantern Glass Studio,Exhibitor,,,11/22/2026
-R1177,Ruby,Walker,ruby.walker@example.net,(503) 555-0127,Saltmarsh Soap Co.,General,vegan,,12/10/2026
-R1178,Ruby,Chen,ruby.chen@example.net,(503) 555-0132,Saltmarsh Soap Co.,Exhibitor,,,12/19/2026
-R1179,Nathan,Hollis,nathan.hollis@example.org,(503) 555-0144,Ironbark Tools,General,,,01/30/2027
-R1180,Julia,Parker,julia.parker@example.org,(503) 555-0175,Wrenfield Paper,Student,,,01/27/2027
-R1181,Aaron,Parker,aaron.parker@example.net,(503) 555-0189,Northfold Textiles,General,gluten-free,hearing loop,12/08/2026
-R1182,Caleb,Kim,caleb.kim@example.com,(503) 555-0163,Ironbark Tools,Speaker,,,01/10/2027
-R1183,Julia,Foster,julia.foster@example.com,(503) 555-0175,Copper Kettle Forge,General,,,01/22/2027
-R1184,Sophia,Vance,sophia.vance@example.org,(503) 555-0175,Fernway Woodworks,General,,,12/01/2026
-R1185,Julia,Chen,julia.chen@example.com,(503) 555-0174,Wrenfield Paper,General,,,12/01/2026
-R1186,Ryan,Collins,ryan.collins@example.net,(503) 555-0176,Bluefen Pottery,Speaker,gluten-free,,12/27/2026
-R1187,Aaron,Bennett,aaron.bennett@example.com,(503) 555-0160,Kestrel Bikes,General,nut allergy,,11/19/2026
-R1188,Hannah,Carter,hannah.carter@example.org,(503) 555-0164,Bluefen Pottery,General,gluten-free,,12/29/2026
-R1189,Emma,Collins,emma.collins@example.net,(503) 555-0137,Copper Kettle Forge,Student,,,12/08/2026
-R1190,Tyler,Walker,tyler.walker@example.com,(503) 555-0160,Saltmarsh Soap Co.,Student,,,12/13/2026
-R1191,Liam,Turner,liam.turner@example.org,(503) 555-0113,Bluefen Pottery,General,vegetarian,,01/18/2027
-R1192,Olivia,Collins,olivia.collins@example.org,(503) 555-0155,Ironbark Tools,General,,,01/15/2027
-R1193,Sophia,Brooks,sophia.brooks@example.org,(503) 555-0173,Saltmarsh Soap Co.,Exhibitor,,,01/11/2027
-R1194,Liam,Lindqvist,liam.lindqvist@example.com,(503) 555-0120,Bluefen Pottery,Exhibitor,,,11/28/2026
-R1195,Ava,Chen,ava.chen@example.net,(503) 555-0188,Bluefen Pottery,Student,,,12/08/2026
-R1196,Julia,Morgan,julia.morgan@example.net,(503) 555-0173,Tidewater Ceramics,General,,,01/10/2027
-R1197,Liam,Reed,liam.reed@example.org,(503) 555-0168,Copper Kettle Forge,General,,,01/03/2027
-R1198,Grace,Bennett,grace.bennett@example.org,(503) 555-0109,Saltmarsh Soap Co.,Student,,,11/22/2026
-R1199,Ruby,Bennett,ruby.bennett@example.com,(503) 555-0153,Northfold Textiles,Exhibitor,vegetarian,,01/06/2027
-R1200,Leah,Bennett,leah.bennett@example.net,(503) 555-0160,Copper Kettle Forge,General,,,01/27/2027
-R1201,Aaron,Morgan,aaron.morgan@example.org,(503) 555-0181,Copper Kettle Forge,General,,,01/06/2027
-R1202,Sophia,Price,sophia.price@example.com,(503) 555-0162,Fernway Woodworks,Exhibitor,vegetarian,,12/06/2026
-R1203,Tyler,Okafor,tyler.okafor@example.com,(503) 555-0112,Hollow Oak Candles,Student,,,01/14/2027
-R1204,Sadie,Ward,sadie.ward@example.com,(503) 555-0125,Kestrel Bikes,General,,reserved front seating,01/16/2027
-R1205,Isaac,Reed,isaac.reed@example.com,(503) 555-0172,Ashgrove Leather,Speaker,gluten-free,,11/24/2026
-R1206,Chloe,Ramirez,chloe.ramirez@example.org,(503) 555-0138,Copper Kettle Forge,General,,,12/29/2026
-R1207,Owen,Morgan,owen.morgan@example.net,(503) 555-0180,Tidewater Ceramics,Exhibitor,,,01/23/2027
-R1208,Lucas,Abbott,lucas.abbott@example.org,(503) 555-0107,Fernway Woodworks,Exhibitor,,,12/22/2026
-R1209,Maya,Hayes,maya.hayes@example.org,(503) 555-0117,Bluefen Pottery,General,gluten-free,,01/10/2027
-R1210,Ryan,Sullivan,ryan.sullivan@example.net,(503) 555-0129,Bluefen Pottery,General,,,12/23/2026
-R1211,Tyler,Vance,tyler.vance@example.net,(503) 555-0148,Pinecrest Print Shop,General,,,12/25/2026
-R1212,Caleb,Price,caleb.price@example.net,(503) 555-0130,Fernway Woodworks,General,,reserved front seating,12/25/2026
-R1213,Aaron,Chen,aaron.chen@example.net,(503) 555-0185,Wrenfield Paper,Student,,,12/27/2026
-R1214,Nathan,Delgado,nathan.delgado@example.net,(503) 555-0121,Tidewater Ceramics,General,vegetarian,,01/20/2027
-R1215,Ethan,Chen,ethan.chen@example.com,(503) 555-0136,Saltmarsh Soap Co.,General,,,12/22/2026
-R1216,Caleb,Brooks,caleb.brooks@example.org,(503) 555-0157,Saltmarsh Soap Co.,General,vegetarian,wheelchair access,11/24/2026
-R1217,Noah,Carter,noah.carter@example.com,(503) 555-0161,Wrenfield Paper,General,,,12/22/2026
-R1218,Lily,Reed,lily.reed@example.com,(503) 555-0163,Mossback Furniture,General,nut allergy,,01/09/2027
-R1219,Ella,Morgan,ella.morgan@example.com,(503) 555-0152,Tidewater Ceramics,Exhibitor,,,12/21/2026
-R1220,Ava,Vance,ava.vance@example.com,(503) 555-0191,Bluefen Pottery,General,,,01/19/2027
-R1221,Liam,Price,liam.price@example.org,(503) 555-0140,Ashgrove Leather,Exhibitor,,,12/13/2026
-R1222,Liam,Sullivan,liam.sullivan@example.net,(503) 555-0149,Ironbark Tools,General,,,01/10/2027
-R1223,Marcus,Collins,marcus.collins@example.com,(503) 555-0174,Hollow Oak Candles,General,,,12/31/2026
-R1224,Nora,Brooks,nora.brooks@example.com,(503) 555-0137,Fernway Woodworks,Exhibitor,vegetarian,,01/08/2027
-R1225,James,Nguyen,james.nguyen@example.com,(503) 555-0151,Bluefen Pottery,General,nut allergy,,12/25/2026
-R1226,Olivia,Okafor,olivia.okafor@example.com,(503) 555-0100,Saltmarsh Soap Co.,General,vegan,,12/03/2026
-R1227,Liam,Okafor,liam.okafor@example.net,(503) 555-0108,Copper Kettle Forge,Exhibitor,,,11/17/2026
-R1228,Tyler,Kim,tyler.kim@example.com,(503) 555-0127,Ironbark Tools,Student,vegan,,12/21/2026
-R1229,Lily,Foster,lily.foster@example.net,(503) 555-0144,Hollow Oak Candles,General,,,12/04/2026
-R1230,Noah,Ward,noah.ward@example.com,(503) 555-0190,Bluefen Pottery,General,,wheelchair access,11/19/2026
-R1231,Aaron,Walker,aaron.walker@example.org,(503) 555-0116,Kestrel Bikes,General,,,01/20/2027
-R1232,Nathan,Brooks,nathan.brooks@example.net,(503) 555-0138,Pinecrest Print Shop,General,,hearing loop,01/26/2027
-R1233,Emma,Turner,emma.turner@example.net,(503) 555-0139,Tidewater Ceramics,General,,,01/29/2027
-R1234,Lucas,Delgado,lucas.delgado@example.com,(503) 555-0182,Fernway Woodworks,General,vegan,,12/11/2026
-R1235,Hannah,Brooks,hannah.brooks@example.org,(503) 555-0194,Tidewater Ceramics,General,,hearing loop,01/06/2027
-R1236,Noah,Price,noah.price@example.org,(503) 555-0146,Ashgrove Leather,Exhibitor,,,12/11/2026
-R1237,Liam,Vance,liam.vance@example.net,(503) 555-0163,Wrenfield Paper,General,,,12/06/2026
-R1238,Carlos,Kim,carlos.kim@example.net,(503) 555-0185,Bluefen Pottery,General,vegetarian,,12/10/2026
-R1239,Elijah,Nguyen,elijah.nguyen@example.com,(503) 555-0125,Ironbark Tools,General,,,12/08/2026
-R1240,Mia,Brooks,mia.brooks@example.net,(503) 555-0127,Ashgrove Leather,General,,,01/21/2027
-R1241,Ethan,Hollis,ethan.hollis@example.net,(503) 555-0132,Ironbark Tools,General,,,01/30/2027
-R1242,Maya,Collins,maya.collins@example.org,(503) 555-0153,Fernway Woodworks,Speaker,vegan,,12/06/2026
-R1243,Caleb,Delgado,caleb.delgado@example.net,(503) 555-0114,Copper Kettle Forge,Student,,wheelchair access,11/20/2026
-R1244,Maya,Lindqvist,maya.lindqvist@example.org,(503) 555-0132,Stonefield Knives,General,vegan,,01/04/2027
-R1245,Maya,Chen,maya.chen@example.com,(503) 555-0192,Mossback Furniture,General,vegetarian,,01/09/2027
-R1246,Nora,Hayes,nora.hayes@example.net,(503) 555-0104,Tidewater Ceramics,General,vegetarian,,11/24/2026
-R1247,Ethan,Sullivan,ethan.sullivan@example.com,(503) 555-0169,Lantern Glass Studio,General,,,01/24/2027
-R1248,Noah,Lindqvist,noah.lindqvist@example.org,(503) 555-0148,Wrenfield Paper,Speaker,,,12/24/2026
-R1249,Tyler,Bennett,tyler.bennett@example.com,(503) 555-0163,Wrenfield Paper,General,,,01/08/2027
-R1250,Noah,Hayes,noah.hayes@example.net,(503) 555-0174,Fernway Woodworks,General,,,12/16/2026
-R1251,Liam,Collins,liam.collins@example.com,(503) 555-0179,Ironbark Tools,Exhibitor,,,01/07/2027
-R1252,Nathan,Sullivan,nathan.sullivan@example.net,(503) 555-0106,Hollow Oak Candles,Exhibitor,vegetarian,,11/23/2026
-R1253,Carlos,Brooks,carlos.brooks@example.org,(503) 555-0180,Ironbark Tools,Exhibitor,,,12/04/2026
-R1254,Ella,Okafor,ella.okafor@example.com,(503) 555-0128,Ashgrove Leather,General,,,01/27/2027
-R1255,Tyler,Delgado,tyler.delgado@example.com,(503) 555-0125,Copper Kettle Forge,General,vegetarian,,11/18/2026
-R1256,Tyler,Hollis,tyler.hollis@example.com,(503) 555-0125,Mossback Furniture,General,,,12/20/2026
-R1257,Grace,Abbott,grace.abbott@example.net,(503) 555-0168,Ironbark Tools,Student,,,12/31/2026
-R1258,Wyatt,Walker,wyatt.walker@example.net,(503) 555-0113,Mossback Furniture,Speaker,,,01/29/2027
-R1259,Hannah,Kim,hannah.kim@example.net,(503) 555-0146,Pinecrest Print Shop,General,,,01/22/2027
-R1260,Wyatt,Hollis,wyatt.hollis@example.net,(503) 555-0197,Ashgrove Leather,General,,,01/29/2027
-R1261,Maya,Okafor,maya.okafor@example.com,(503) 555-0167,Bluefen Pottery,General,,,01/15/2027
-R1262,Marcus,Delgado,marcus.delgado@example.net,(503) 555-0146,Tidewater Ceramics,Exhibitor,,,01/02/2027
-R1263,Tyler,Price,tyler.price@example.com,(503) 555-0186,Tidewater Ceramics,Student,vegan,reserved front seating,12/01/2026
-R1264,Tyler,Ward,tyler.ward@example.org,(503) 555-0129,Stonefield Knives,Exhibitor,vegan,,01/28/2027
-R1265,Marcus,Hayes,marcus.hayes@example.net,(503) 555-0111,Ironbark Tools,General,,,12/29/2026
-R1266,Emma,Hollis,emma.hollis@example.com,(503) 555-0147,Ashgrove Leather,Student,,,12/20/2026
-R1267,Emma,Hayes,emma.hayes@example.net,(503) 555-0115,Stonefield Knives,General,,,12/11/2026
-R1268,Leah,Lindqvist,leah.lindqvist@example.net,(503) 555-0175,Copper Kettle Forge,General,,,12/21/2026
-R1269,Aaron,Vance,aaron.vance@example.com,(503) 555-0159,Stonefield Knives,General,,,01/03/2027
-R1270,Noah,Walker,noah.walker@example.net,(503) 555-0136,Ashgrove Leather,General,,,12/18/2026
-R1271,Isaac,Parker,isaac.parker@example.net,(503) 555-0107,Wrenfield Paper,General,,,01/16/2027
-R1272,Julia,Delgado,julia.delgado@example.net,(503) 555-0126,Ashgrove Leather,General,shellfish allergy,,12/28/2026
-R1273,Liam,Delgado,liam.delgado@example.com,(503) 555-0150,Saltmarsh Soap Co.,General,vegan,,01/08/2027
-R1274,Chloe,Chen,chloe.chen@example.net,(503) 555-0185,Copper Kettle Forge,General,,,02/01/2027
-R1275,Mia,Bennett,mia.bennett@example.org,(503) 555-0163,Pinecrest Print Shop,General,vegetarian,,11/26/2026
-R1276,Aaron,Hollis,aaron.hollis@example.org,(503) 555-0137,Ashgrove Leather,General,,,01/30/2027
-R1277,Ethan,Parker,ethan.parker@example.com,(503) 555-0150,Fernway Woodworks,General,nut allergy,,12/12/2026
-R1278,Aaron,Hayes,aaron.hayes@example.net,(503) 555-0171,Hollow Oak Candles,General,,,12/02/2026
-R1279,Owen,Ward,owen.ward@example.net,(503) 555-0146,Ironbark Tools,Exhibitor,,,12/02/2026
-R1280,Ivy,Brooks,ivy.brooks@example.org,(503) 555-0197,Copper Kettle Forge,Student,,,12/30/2026
-R1281,Wyatt,Hayes,wyatt.hayes@example.org,(503) 555-0179,Ironbark Tools,General,vegetarian,,01/24/2027
-R1282,Grace,Parker,grace.parker@example.com,(503) 555-0157,Ashgrove Leather,General,,,12/01/2026
-R1283,Marcus,Brooks,marcus.brooks@example.net,(503) 555-0194,Mossback Furniture,General,vegetarian,,12/01/2026
-R1284,Wyatt,Foster,wyatt.foster@example.net,(503) 555-0172,Ironbark Tools,General,,,11/18/2026
-R1285,Ethan,Foster,ethan.foster@example.net,(503) 555-0138,Copper Kettle Forge,General,vegan,,01/10/2027
-R1286,Ruby,Brooks,ruby.brooks@example.org,(503) 555-0106,Hollow Oak Candles,General,nut allergy,,01/09/2027
-R1287,Ivy,Chen,ivy.chen@example.org,(503) 555-0107,Pinecrest Print Shop,Student,vegetarian,,01/20/2027
-R1288,Isaac,Foster,isaac.foster@example.org,(503) 555-0187,Bluefen Pottery,Exhibitor,,,12/18/2026
-R1289,Mia,Turner,mia.turner@example.com,(503) 555-0119,Hollow Oak Candles,General,,,12/21/2026
-R1290,Ella,Lindqvist,ella.lindqvist@example.net,(503) 555-0150,Saltmarsh Soap Co.,General,vegan,reserved front seating,01/08/2027
-R1291,Mia,Abbott,mia.abbott@example.com,(503) 555-0131,Saltmarsh Soap Co.,General,,,12/20/2026
-R1292,Daniel,Foster,daniel.foster@example.com,(503) 555-0116,Ashgrove Leather,General,vegetarian,,01/25/2027
-R1293,Olivia,Delgado,olivia.delgado@example.net,(503) 555-0123,Ironbark Tools,Exhibitor,,,12/10/2026
-R1294,Lucas,Vance,lucas.vance@example.com,(503) 555-0193,Hollow Oak Candles,Student,,,01/10/2027
-R1295,Sadie,Lindqvist,sadie.lindqvist@example.org,(503) 555-0197,Fernway Woodworks,Speaker,,,01/08/2027
-R1296,Wyatt,Turner,wyatt.turner@example.org,(503) 555-0154,Ironbark Tools,General,gluten-free,,01/29/2027
-R1297,Lucas,Reed,lucas.reed@example.net,(503) 555-0150,Stonefield Knives,General,,,01/24/2027
-R1298,Zoe,Hayes,zoe.hayes@example.net,(503) 555-0193,Tidewater Ceramics,General,,,01/10/2027
-R1299,Tyler,Ramirez,tyler.ramirez@example.com,(503) 555-0195,Stonefield Knives,General,vegetarian,,12/06/2026
-R1300,Daniel,Chen,daniel.chen@example.net,(503) 555-0121,Ashgrove Leather,Exhibitor,nut allergy,,02/01/2027
-R1301,Carlos,Hollis,carlos.hollis@example.com,(503) 555-0160,Ironbark Tools,General,,,01/18/2027
-R1302,Wyatt,Nguyen,wyatt.nguyen@example.com,(503) 555-0169,Ironbark Tools,General,vegan,,12/18/2026
-R1303,Zoe,Kim,zoe.kim@example.org,(503) 555-0153,Northfold Textiles,General,,,12/03/2026
-R1304,Owen,Nguyen,owen.nguyen@example.com,(503) 555-0121,Tidewater Ceramics,General,,,01/04/2027
-R1305,Carlos,Bennett,carlos.bennett@example.net,(503) 555-0195,Tidewater Ceramics,Exhibitor,vegetarian,,01/30/2027
-R1306,Ivy,Delgado,ivy.delgado@example.com,(503) 555-0193,Wrenfield Paper,General,vegetarian,,01/17/2027
-R1307,Olivia,Hayes,olivia.hayes@example.com,(503) 555-0133,Ashgrove Leather,Student,,,01/04/2027
-R1308,Owen,Abbott,owen.abbott@example.com,(503) 555-0180,Mossback Furniture,General,,,12/13/2026
-R1309,Liam,Hayes,liam.hayes@example.com,(503) 555-0171,Hollow Oak Candles,Exhibitor,nut allergy,,01/04/2027
-R1310,Owen,Brooks,owen.brooks@example.org,(503) 555-0115,Ironbark Tools,Student,nut allergy,,01/10/2027
-R1311,Nora,Hollis,nora.hollis@example.org,(503) 555-0176,Mossback Furniture,General,vegetarian,,01/06/2027
-R1312,Aaron,Ward,aaron.ward@example.org,(503) 555-0156,Saltmarsh Soap Co.,General,,,01/15/2027
-R1313,James,Kim,james.kim@example.org,(503) 555-0188,Wrenfield Paper,General,vegetarian,,12/02/2026
-R1314,Marcus,Vance,marcus.vance@example.net,(503) 555-0130,Mossback Furniture,Exhibitor,,,12/31/2026
-R1315,Sadie,Parker,sadie.parker@example.com,(503) 555-0131,Northfold Textiles,General,,,01/26/2027
-R1316,Chloe,Hollis,chloe.hollis@example.com,(503) 555-0159,Bluefen Pottery,General,vegan,,12/15/2026
-R1317,Ava,Nguyen,ava.nguyen@example.org,(503) 555-0191,Bluefen Pottery,General,,,01/18/2027
-R1318,James,Ward,james.ward@example.net,(503) 555-0176,Saltmarsh Soap Co.,General,,,12/15/2026
-R1319,Nora,Delgado,nora.delgado@example.net,(503) 555-0139,Fernway Woodworks,Student,,,01/28/2027
-R1320,Olivia,Parker,olivia.parker@example.com,(503) 555-0142,Mossback Furniture,General,,,01/08/2027
-R1321,Lucas,Ramirez,lucas.ramirez@example.org,(503) 555-0106,Tidewater Ceramics,General,,,12/10/2026
-R1322,Sadie,Reed,sadie.reed@example.org,(503) 555-0117,Lantern Glass Studio,Speaker,vegetarian,,01/24/2027
-R1323,Sophia,Lindqvist,sophia.lindqvist@example.org,(503) 555-0164,Bluefen Pottery,General,vegetarian,wheelchair access,11/26/2026
-R1324,Daniel,Price,daniel.price@example.org,(503) 555-0163,Saltmarsh Soap Co.,General,,,11/25/2026
-R1325,Ava,Ramirez,ava.ramirez@example.org,(503) 555-0150,Stonefield Knives,Exhibitor,,,11/18/2026
-R1326,Chloe,Hayes,chloe.hayes@example.org,(503) 555-0128,Ironbark Tools,General,,,12/15/2026
-R1327,Lily,Collins,lily.collins@example.com,(503) 555-0147,Lantern Glass Studio,General,vegetarian,,01/27/2027
-R1328,Aaron,Okafor,aaron.okafor@example.com,(503) 555-0159,Ashgrove Leather,General,,,12/24/2026
-R1329,Nora,Price,nora.price@example.net,(503) 555-0181,Kestrel Bikes,General,vegetarian,,12/08/2026
-R1330,Julia,Nguyen,julia.nguyen@example.net,(503) 555-0168,Pinecrest Print Shop,General,,,01/29/2027
-R1331,Ella,Hollis,ella.hollis@example.net,(503) 555-0145,Bluefen Pottery,General,,,01/03/2027
-R1332,Hannah,Walker,hannah.walker@example.org,(503) 555-0122,Pinecrest Print Shop,Student,,,01/06/2027
-R1333,Daniel,Walker,daniel.walker@example.net,(503) 555-0173,Kestrel Bikes,General,,,01/07/2027
-R1334,Lily,Kim,lily.kim@example.com,(503) 555-0131,Ashgrove Leather,Exhibitor,vegetarian,,01/06/2027
-R1335,Nora,Ward,nora.ward@example.net,(503) 555-0106,Bluefen Pottery,General,,,01/01/2027
-R1336,Ivy,Ward,ivy.ward@example.org,(503) 555-0185,Northfold Textiles,General,,,01/22/2027
-R1337,Olivia,Carter,olivia.carter@example.org,(503) 555-0151,Ironbark Tools,General,vegan,reserved front seating,01/02/2027
-R1338,Leah,Sullivan,leah.sullivan@example.com,(503) 555-0177,Fernway Woodworks,Student,,,01/21/2027
-R1339,Ethan,Okafor,ethan.okafor@example.net,(503) 555-0159,Tidewater Ceramics,Student,,,01/19/2027
-R1340,Chloe,Kim,chloe.kim@example.org,(503) 555-0154,Copper Kettle Forge,Student,vegetarian,,01/27/2027
-R1341,Leah,Parker,leah.parker@example.net,(503) 555-0172,Kestrel Bikes,General,gluten-free,,01/06/2027
-R1342,Ruby,Nguyen,ruby.nguyen@example.net,(503) 555-0199,Copper Kettle Forge,General,,,12/08/2026
-R1343,Isaac,Vance,isaac.vance@example.org,(503) 555-0156,Lantern Glass Studio,General,,,01/10/2027
-R1344,Olivia,Ward,olivia.ward@example.com,(503) 555-0131,Hollow Oak Candles,Student,vegetarian,,12/30/2026
-R1345,Carlos,Foster,carlos.foster@example.com,(503) 555-0101,Wrenfield Paper,General,,,11/21/2026
-R1346,Ruby,Foster,ruby.foster@example.net,(503) 555-0144,Lantern Glass Studio,General,,,11/20/2026
-R1347,Grace,Sullivan,grace.sullivan@example.net,(503) 555-0190,Ashgrove Leather,General,vegan,,01/07/2027
-R1348,Maya,Reed,maya.reed@example.net,(503) 555-0156,Stonefield Knives,Exhibitor,,,11/20/2026
-R1349,Tyler,Collins,tyler.collins@example.com,(503) 555-0158,Fernway Woodworks,Student,,,01/12/2027
-R1350,Mia,Nguyen,mia.nguyen@example.net,(503) 555-0108,Ironbark Tools,General,vegetarian,,01/08/2027
-R1351,Maya,Turner,maya.turner@example.com,(503) 555-0143,Fernway Woodworks,General,,,01/20/2027
-R1352,Lily,Nguyen,lily.nguyen@example.com,(503) 555-0182,Wrenfield Paper,General,vegetarian,,11/21/2026
-R1353,Zoe,Collins,zoe.collins@example.net,(503) 555-0178,Fernway Woodworks,Student,,,12/28/2026
-R1354,Leah,Ward,leah.ward@example.com,(503) 555-0118,Wrenfield Paper,General,,,11/28/2026
-R1355,Chloe,Nguyen,chloe.nguyen@example.com,(503) 555-0127,Kestrel Bikes,General,,,01/13/2027
-R1356,Ivy,Morgan,ivy.morgan@example.com,(503) 555-0158,Wrenfield Paper,General,,hearing loop,12/20/2026
-R1357,Leah,Okafor,leah.okafor@example.org,(503) 555-0136,Saltmarsh Soap Co.,General,,,12/31/2026
-R1358,Sophia,Parker,sophia.parker@example.com,(503) 555-0142,Stonefield Knives,General,,,11/20/2026
-R1359,Caleb,Collins,caleb.collins@example.net,(503) 555-0176,Saltmarsh Soap Co.,Exhibitor,vegetarian,,11/27/2026
-R1360,Maya,Nguyen,maya.nguyen@example.com,(503) 555-0109,Bluefen Pottery,Exhibitor,,,12/29/2026
-R1361,Nora,Turner,nora.turner@example.com,(503) 555-0141,Northfold Textiles,Exhibitor,,,12/10/2026
-R1362,Emma,Reed,emma.reed@example.org,(503) 555-0134,Saltmarsh Soap Co.,General,,,01/15/2027
-R1363,Noah,Bennett,noah.bennett@example.net,(503) 555-0133,Fernway Woodworks,General,,,01/09/2027
-R1364,Maya,Parker,maya.parker@example.com,(503) 555-0175,Wrenfield Paper,Student,,,12/31/2026
-R1365,Ethan,Hayes,ethan.hayes@example.org,(503) 555-0139,Copper Kettle Forge,General,,,12/05/2026
-R1366,Carlos,Walker,carlos.walker@example.com,(503) 555-0173,Stonefield Knives,General,gluten-free,,01/06/2027
-R1367,Lucas,Turner,lucas.turner@example.org,(503) 555-0158,Ashgrove Leather,Exhibitor,,,11/29/2026
-R1368,Chloe,Morgan,chloe.morgan@example.org,(503) 555-0174,Saltmarsh Soap Co.,Student,,,11/22/2026
-R1369,Wyatt,Delgado,wyatt.delgado@example.com,(503) 555-0102,Lantern Glass Studio,General,,,11/27/2026
-R1370,Daniel,Ward,daniel.ward@example.net,(503) 555-0109,Pinecrest Print Shop,Exhibitor,,,12/02/2026
-R1371,Hannah,Foster,hannah.foster@example.org,(503) 555-0134,Kestrel Bikes,General,,,11/20/2026
-R1372,Liam,Foster,liam.foster@example.org,(503) 555-0112,Fernway Woodworks,General,,,12/13/2026
-R1373,Emma,Kim,emma.kim@example.net,(503) 555-0105,Lantern Glass Studio,Student,shellfish allergy,,01/25/2027
-R1374,Ruby,Morgan,ruby.morgan@example.net,(503) 555-0146,Pinecrest Print Shop,General,,,01/17/2027
-R1375,Emma,Parker,emma.parker@example.com,(503) 555-0115,Bluefen Pottery,General,,,01/06/2027
-R1376,Ethan,Bennett,ethan.bennett@example.org,(503) 555-0134,Ironbark Tools,Exhibitor,,,12/04/2026
-R1377,Lucas,Kim,lucas.kim@example.com,(503) 555-0167,Kestrel Bikes,General,,,11/23/2026
-R1378,Carlos,Nguyen,carlos.nguyen@example.com,(503) 555-0123,Ironbark Tools,General,,,01/17/2027
-R1379,Liam,Bennett,liam.bennett@example.net,(503) 555-0167,Tidewater Ceramics,Exhibitor,vegetarian,,01/16/2027
-R1380,Carlos,Vance,carlos.vance@example.org,(503) 555-0111,Ashgrove Leather,General,vegetarian,,12/08/2026
-R1381,Owen,Price,owen.price@example.org,(503) 555-0199,Kestrel Bikes,Exhibitor,,,01/30/2027
-R1382,Wyatt,Bennett,wyatt.bennett@example.net,(503) 555-0146,Mossback Furniture,General,gluten-free,,12/19/2026
-R1383,Sadie,Hayes,sadie.hayes@example.net,(503) 555-0160,Ashgrove Leather,General,,,12/24/2026
-R1384,Emma,Carter,emma.carter@example.com,(503) 555-0157,Mossback Furniture,General,,,12/24/2026
-R1385,Mia,Chen,mia.chen@example.org,(503) 555-0168,Saltmarsh Soap Co.,General,,,12/05/2026
-R1386,Leah,Turner,leah.turner@example.net,(503) 555-0106,Ironbark Tools,General,,,12/04/2026
-R1387,Noah,Hollis,noah.hollis@example.net,(503) 555-0122,Lantern Glass Studio,Student,,,12/20/2026
-R1388,Tyler,Nguyen,tyler.nguyen@example.com,(503) 555-0149,Stonefield Knives,General,,,01/14/2027
-R1389,Marcus,Parker,marcus.parker@example.com,(503) 555-0117,Fernway Woodworks,General,,,12/24/2026
-R1390,Noah,Abbott,noah.abbott@example.org,(503) 555-0112,Bluefen Pottery,General,,,11/23/2026
-R1391,Ella,Carter,ella.carter@example.com,(503) 555-0111,Stonefield Knives,General,,,01/13/2027
-R1392,Julia,Walker,julia.walker@example.org,(503) 555-0184,Stonefield Knives,Student,,,01/02/2027
-R1393,Aaron,Ramirez,aaron.ramirez@example.org,(503) 555-0159,Kestrel Bikes,General,,,11/24/2026
-R1394,Marcus,Hollis,marcus.hollis@example.org,(503) 555-0137,Bluefen Pottery,General,vegetarian,wheelchair access,01/19/2027
-R1395,Marcus,Foster,marcus.foster@example.net,(503) 555-0197,Wrenfield Paper,General,,,01/23/2027
-R1396,Daniel,Hollis,daniel.hollis@example.com,(503) 555-0106,Bluefen Pottery,Exhibitor,,,01/31/2027
-R1397,Chloe,Vance,CHLOE.VANCE@EXAMPLE.COM,(503) 555-0162,Copper Kettle Forge,Exhibitor,vegetarian,,02/03/2027
-R1398,Ethan ,Ward,ethan.ward@example.com,(503) 555-0148,Northfold Textiles,Speaker,,,02/03/2027
-R1399,Tyler,Okafor,tyler.okafor@example.com,(503) 555-0112,Hollow Oak Candles,Student,,,02/03/2027
+R1000,Sophia,Turner,sophia.turner@example.net,(503) 555-0125,Lantern Glass Studio,General,,ASL interpreter,10/12/2026
+R1001,Ryan,Reed,ryan.reed@example.org,(503) 555-0143,Pinecrest Print Shop,General,,,08/18/2026
+R1002,Emma,Bennett,emma.bennett@example.net,(503) 555-0120,Pinecrest Print Shop,General,,,10/27/2026
+R1003,Zoe,Okafor,zoe.okafor@example.com,(503) 555-0156,Tidewater Ceramics,Student,,,10/24/2026
+R1004,Elijah,Abbott,elijah.abbott@example.org,(503) 555-0151,Northfold Textiles,General,,,09/21/2026
+R1005,Mia,Ramirez,mia.ramirez@example.com,(503) 555-0195,Kestrel Bikes,General,,,10/10/2026
+R1006,Julia,Abbott,julia.abbott@example.org,(503) 555-0188,Copper Kettle Forge,Exhibitor,,,09/22/2026
+R1007,Ryan,Morgan,ryan.morgan@example.com,(503) 555-0164,Saltmarsh Soap Co.,General,,,09/09/2026
+R1008,Owen,Parker,owen.parker@example.net,(503) 555-0100,Stonefield Knives,General,,,09/26/2026
+R1009,Ava,Reed,ava.reed@example.org,(503) 555-0148,Ashgrove Leather,General,shellfish allergy,,09/19/2026
+R1010,Ryan,Bennett,ryan.bennett@example.net,(503) 555-0157,Northfold Textiles,General,vegetarian,,10/18/2026
+R1011,Hannah,Collins,hannah.collins@example.com,(503) 555-0181,Hollow Oak Candles,General,,,10/29/2026
+R1012,Chloe,Vance,chloe.vance@example.com,(503) 555-0162,Copper Kettle Forge,Exhibitor,vegetarian,,10/06/2026
+R1013,Nora,Ramirez,nora.ramirez@example.net,(503) 555-0162,Mossback Furniture,General,,,09/15/2026
+R1014,Owen,Chen,owen.chen@example.com,(503) 555-0130,Copper Kettle Forge,Exhibitor,,,08/26/2026
+R1015,Daniel,Brooks,daniel.brooks@example.com,(503) 555-0190,Fernway Woodworks,General,,,09/04/2026
+R1016,Lily,Ward,lily.ward@example.org,(503) 555-0134,Copper Kettle Forge,General,nut allergy,,10/03/2026
+R1017,Grace,Ward,grace.ward@example.org,(503) 555-0102,Stonefield Knives,General,,,08/16/2026
+R1018,Ella,Turner,ella.turner@example.com,(503) 555-0110,Pinecrest Print Shop,General,vegan,ASL interpreter,09/04/2026
+R1019,Owen,Sullivan,owen.sullivan@example.net,(503) 555-0182,Stonefield Knives,Exhibitor,shellfish allergy,,09/05/2026
+R1020,Wyatt,Chen,wyatt.chen@example.net,(503) 555-0102,Pinecrest Print Shop,Exhibitor,,,10/25/2026
+R1021,Ava,Carter,ava.carter@example.net,(503) 555-0197,Ashgrove Leather,General,,,09/14/2026
+R1022,Ivy,Okafor,ivy.okafor@example.net,(503) 555-0115,Stonefield Knives,General,vegan,,08/31/2026
+R1023,Ryan,Vance,ryan.vance@example.com,(503) 555-0165,Lantern Glass Studio,General,,,09/30/2026
+R1024,Ethan,Lindqvist,ethan.lindqvist@example.org,(503) 555-0185,Ironbark Tools,Exhibitor,,,09/30/2026
+R1025,Nathan,Ward,nathan.ward@example.net,(503) 555-0177,Hollow Oak Candles,General,,,10/11/2026
+R1026,Leah,Kim,leah.kim@example.net,(503) 555-0120,Ironbark Tools,Exhibitor,,,08/15/2026
+R1027,Leah,Walker,leah.walker@example.net,(503) 555-0175,Copper Kettle Forge,General,,,08/29/2026
+R1028,Hannah,Morgan,hannah.morgan@example.net,(503) 555-0192,Ironbark Tools,Student,,,10/01/2026
+R1029,Ruby,Price,ruby.price@example.org,(503) 555-0151,Lantern Glass Studio,Speaker,,,08/26/2026
+R1030,Daniel,Carter,daniel.carter@example.net,(503) 555-0163,Bluefen Pottery,Speaker,nut allergy,,09/19/2026
+R1031,Lily,Carter,lily.carter@example.org,(503) 555-0197,Lantern Glass Studio,General,vegetarian,,10/01/2026
+R1032,Leah,Vance,leah.vance@example.org,(503) 555-0174,Mossback Furniture,General,,,08/31/2026
+R1033,Noah,Okafor,noah.okafor@example.org,(503) 555-0102,Ashgrove Leather,General,,,09/08/2026
+R1034,Ivy,Sullivan,ivy.sullivan@example.com,(503) 555-0146,Mossback Furniture,General,,,09/18/2026
+R1035,Wyatt,Kim,wyatt.kim@example.net,(503) 555-0180,Hollow Oak Candles,General,,,10/17/2026
+R1036,Noah,Collins,noah.collins@example.com,(503) 555-0167,Pinecrest Print Shop,General,gluten-free,,09/01/2026
+R1037,Liam,Parker,liam.parker@example.org,(503) 555-0114,Mossback Furniture,General,nut allergy,,09/12/2026
+R1038,Ivy,Turner,ivy.turner@example.net,(503) 555-0196,Pinecrest Print Shop,General,,,08/14/2026
+R1039,Grace,Morgan,grace.morgan@example.org,(503) 555-0154,Lantern Glass Studio,General,vegan,,08/28/2026
+R1040,Tyler,Turner,tyler.turner@example.com,(503) 555-0193,Wrenfield Paper,Exhibitor,,,09/14/2026
+R1041,Ava,Delgado,ava.delgado@example.org,(503) 555-0161,Bluefen Pottery,Exhibitor,,,09/12/2026
+R1042,Lily,Chen,lily.chen@example.org,(503) 555-0121,Lantern Glass Studio,Exhibitor,gluten-free,,09/21/2026
+R1043,Lucas,Sullivan,lucas.sullivan@example.org,(503) 555-0142,Saltmarsh Soap Co.,General,,wheelchair access,10/28/2026
+R1044,Chloe,Walker,chloe.walker@example.org,(503) 555-0135,Kestrel Bikes,Exhibitor,,,10/21/2026
+R1045,Emma,Brooks,emma.brooks@example.com,(503) 555-0148,Ashgrove Leather,General,,,09/20/2026
+R1046,Ethan,Turner,ethan.turner@example.com,(503) 555-0192,Copper Kettle Forge,General,,,09/24/2026
+R1047,Nathan,Chen,nathan.chen@example.com,(503) 555-0141,Hollow Oak Candles,General,vegetarian,,10/14/2026
+R1048,Ivy,Bennett,ivy.bennett@example.org,(503) 555-0117,Pinecrest Print Shop,General,,,08/15/2026
+R1049,Leah,Carter,leah.carter@example.org,(503) 555-0195,Tidewater Ceramics,General,vegan,,08/27/2026
+R1050,James,Vance,james.vance@example.net,(503) 555-0142,Ironbark Tools,Speaker,,,10/13/2026
+R1051,Grace,Chen,grace.chen@example.com,(503) 555-0169,Saltmarsh Soap Co.,General,,,10/21/2026
+R1052,Mia,Parker,mia.parker@example.com,(503) 555-0180,Ashgrove Leather,General,,,10/06/2026
+R1053,Marcus,Price,marcus.price@example.org,(503) 555-0112,Copper Kettle Forge,General,nut allergy,,10/21/2026
+R1054,Chloe,Delgado,chloe.delgado@example.org,(503) 555-0177,Saltmarsh Soap Co.,General,,,10/16/2026
+R1055,Daniel,Hayes,daniel.hayes@example.com,(503) 555-0157,Bluefen Pottery,General,,,10/01/2026
+R1056,Chloe,Ward,chloe.ward@example.com,(503) 555-0109,Mossback Furniture,General,vegan,,08/17/2026
+R1057,Ethan,Ward,ethan.ward@example.com,(503) 555-0148,Northfold Textiles,Speaker,,,10/29/2026
+R1058,Isaac,Lindqvist,isaac.lindqvist@example.com,(503) 555-0137,Ironbark Tools,Student,,,09/03/2026
+R1059,Leah,Nguyen,leah.nguyen@example.net,(503) 555-0155,Kestrel Bikes,Student,,,08/27/2026
+R1060,Maya,Hollis,maya.hollis@example.net,(503) 555-0104,Wrenfield Paper,General,,,10/23/2026
+R1061,Nathan,Walker,nathan.walker@example.org,(503) 555-0196,Tidewater Ceramics,Student,nut allergy,,09/20/2026
+R1062,James,Morgan,james.morgan@example.org,(503) 555-0120,Tidewater Ceramics,General,,,09/18/2026
+R1063,Olivia,Bennett,olivia.bennett@example.org,(503) 555-0176,Stonefield Knives,General,gluten-free,,08/26/2026
+R1064,Zoe,Parker,zoe.parker@example.com,(503) 555-0116,Bluefen Pottery,Student,vegan,,09/16/2026
+R1065,Owen,Vance,owen.vance@example.net,(503) 555-0196,Northfold Textiles,General,gluten-free,,10/18/2026
+R1066,Daniel,Delgado,daniel.delgado@example.org,(503) 555-0105,Stonefield Knives,General,,wheelchair access,10/26/2026
+R1067,Hannah,Parker,hannah.parker@example.com,(503) 555-0193,Ashgrove Leather,General,vegetarian,,08/18/2026
+R1068,Ethan,Vance,ethan.vance@example.net,(503) 555-0188,Mossback Furniture,General,vegetarian,,08/20/2026
+R1069,Elijah,Parker,elijah.parker@example.net,(503) 555-0119,Saltmarsh Soap Co.,General,,,10/21/2026
+R1070,Marcus,Turner,marcus.turner@example.com,(503) 555-0122,Wrenfield Paper,Speaker,,,08/30/2026
+R1071,James,Walker,james.walker@example.org,(503) 555-0123,Copper Kettle Forge,General,vegan,,10/24/2026
+R1072,Grace,Nguyen,grace.nguyen@example.org,(503) 555-0172,Hollow Oak Candles,General,,,10/23/2026
+R1073,Elijah,Carter,elijah.carter@example.com,(503) 555-0164,Tidewater Ceramics,General,,,09/07/2026
+R1074,Ella,Kim,ella.kim@example.com,(503) 555-0167,Stonefield Knives,Exhibitor,,,10/17/2026
+R1075,Carlos,Ramirez,carlos.ramirez@example.net,(503) 555-0146,Northfold Textiles,Exhibitor,,,08/15/2026
+R1076,Wyatt,Sullivan,wyatt.sullivan@example.org,(503) 555-0119,Copper Kettle Forge,General,,,08/26/2026
+R1077,Nora,Collins,nora.collins@example.org,(503) 555-0176,Lantern Glass Studio,General,,,10/24/2026
+R1078,Maya,Bennett,maya.bennett@example.net,(503) 555-0178,Pinecrest Print Shop,General,vegetarian,wheelchair access,08/21/2026
+R1079,Lucas,Bennett,lucas.bennett@example.org,(503) 555-0199,Saltmarsh Soap Co.,General,,,10/04/2026
+R1080,Ruby,Carter,ruby.carter@example.com,(503) 555-0155,Hollow Oak Candles,General,gluten-free,,10/14/2026
+R1081,Hannah,Chen,hannah.chen@example.net,(503) 555-0127,Pinecrest Print Shop,Exhibitor,,,10/30/2026
+R1082,James,Chen,james.chen@example.org,(503) 555-0140,Mossback Furniture,General,,wheelchair access,10/23/2026
+R1083,Grace,Walker,grace.walker@example.net,(503) 555-0114,Stonefield Knives,General,,,09/16/2026
+R1084,Sadie,Ramirez,sadie.ramirez@example.net,(503) 555-0145,Wrenfield Paper,General,vegan,wheelchair access,10/24/2026
+R1085,Ethan,Carter,ethan.carter@example.net,(503) 555-0108,Kestrel Bikes,Speaker,,,09/23/2026
+R1086,Owen,Carter,owen.carter@example.com,(503) 555-0183,Ironbark Tools,General,,,09/07/2026
+R1087,Sophia,Ramirez,sophia.ramirez@example.net,(503) 555-0145,Tidewater Ceramics,Student,,,08/19/2026
+R1088,Daniel,Abbott,daniel.abbott@example.org,(503) 555-0139,Fernway Woodworks,General,,,09/07/2026
+R1089,James,Lindqvist,james.lindqvist@example.org,(503) 555-0166,Ashgrove Leather,General,vegan,,10/18/2026
+R1090,Lily,Hollis,lily.hollis@example.net,(503) 555-0189,Hollow Oak Candles,General,,,10/16/2026
+R1091,Emma,Nguyen,emma.nguyen@example.com,(503) 555-0119,Bluefen Pottery,General,nut allergy,,09/15/2026
+R1092,Julia,Hollis,julia.hollis@example.net,(503) 555-0166,Tidewater Ceramics,General,,ASL interpreter,10/12/2026
+R1093,Ella,Collins,ella.collins@example.org,(503) 555-0101,Hollow Oak Candles,General,,,10/14/2026
+R1094,Tyler,Lindqvist,tyler.lindqvist@example.net,(503) 555-0108,Mossback Furniture,General,,,09/18/2026
+R1095,Ella,Bennett,ella.bennett@example.org,(503) 555-0134,Ironbark Tools,General,,,10/07/2026
+R1096,Sophia,Hayes,sophia.hayes@example.com,(503) 555-0173,Bluefen Pottery,General,,,10/24/2026
+R1097,Zoe,Turner,zoe.turner@example.org,(503) 555-0197,Stonefield Knives,Exhibitor,gluten-free,,08/21/2026
+R1098,Ivy,Hayes,ivy.hayes@example.net,(503) 555-0114,Stonefield Knives,General,vegetarian,wheelchair access,09/19/2026
+R1099,Olivia,Sullivan,olivia.sullivan@example.net,(503) 555-0167,Mossback Furniture,General,,,08/24/2026
+R1100,Grace,Carter,grace.carter@example.org,(503) 555-0174,Tidewater Ceramics,General,vegetarian,hearing loop,09/11/2026
+R1101,Sadie,Chen,sadie.chen@example.org,(503) 555-0154,Ironbark Tools,General,,wheelchair access,10/16/2026
+R1102,Ivy,Hollis,ivy.hollis@example.com,(503) 555-0103,Bluefen Pottery,General,nut allergy,,10/01/2026
+R1103,Noah,Reed,noah.reed@example.net,(503) 555-0183,Fernway Woodworks,General,,,10/29/2026
+R1104,Liam,Morgan,liam.morgan@example.org,(503) 555-0117,Tidewater Ceramics,General,,,10/27/2026
+R1105,Leah,Collins,leah.collins@example.net,(503) 555-0161,Ironbark Tools,General,,,10/05/2026
+R1106,Ava,Morgan,ava.morgan@example.com,(503) 555-0170,Kestrel Bikes,General,,,08/24/2026
+R1107,Wyatt,Parker,wyatt.parker@example.com,(503) 555-0169,Ashgrove Leather,Student,,,09/27/2026
+R1108,Mia,Vance,mia.vance@example.net,(503) 555-0188,Pinecrest Print Shop,Student,gluten-free,,10/10/2026
+R1109,Chloe,Collins,chloe.collins@example.com,(503) 555-0139,Fernway Woodworks,General,vegan,,08/31/2026
+R1110,Lily,Lindqvist,lily.lindqvist@example.com,(503) 555-0100,Lantern Glass Studio,Exhibitor,,,09/19/2026
+R1111,Ryan,Ramirez,ryan.ramirez@example.org,(503) 555-0162,Northfold Textiles,Exhibitor,,,09/08/2026
+R1112,Ryan,Hollis,ryan.hollis@example.com,(503) 555-0178,Wrenfield Paper,General,,,09/25/2026
+R1113,Ava,Parker,ava.parker@example.org,(503) 555-0131,Bluefen Pottery,Student,,,09/17/2026
+R1114,Liam,Carter,liam.carter@example.org,(503) 555-0153,Stonefield Knives,General,shellfish allergy,,10/01/2026
+R1115,Sadie,Price,sadie.price@example.com,(503) 555-0119,Hollow Oak Candles,General,gluten-free,,09/17/2026
+R1116,Ava,Collins,ava.collins@example.org,(503) 555-0152,Hollow Oak Candles,General,,,09/30/2026
+R1117,Owen,Kim,owen.kim@example.com,(503) 555-0143,Stonefield Knives,General,,,08/15/2026
+R1118,Ryan,Ward,ryan.ward@example.org,(503) 555-0176,Stonefield Knives,General,,,08/31/2026
+R1119,Daniel,Morgan,daniel.morgan@example.net,(503) 555-0133,Tidewater Ceramics,Exhibitor,vegan,,08/31/2026
+R1120,Ethan,Walker,ethan.walker@example.net,(503) 555-0132,Bluefen Pottery,General,vegetarian,,10/11/2026
+R1121,Sadie,Nguyen,sadie.nguyen@example.com,(503) 555-0132,Copper Kettle Forge,Student,,,09/06/2026
+R1122,Ava,Ward,ava.ward@example.org,(503) 555-0120,Kestrel Bikes,General,,,09/14/2026
+R1123,Noah,Morgan,noah.morgan@example.org,(503) 555-0190,Bluefen Pottery,General,vegetarian,,09/14/2026
+R1124,Carlos,Sullivan,carlos.sullivan@example.com,(503) 555-0194,Lantern Glass Studio,General,gluten-free,hearing loop,10/26/2026
+R1125,Marcus,Lindqvist,marcus.lindqvist@example.com,(503) 555-0113,Pinecrest Print Shop,Student,,,10/12/2026
+R1126,Ethan,Brooks,ethan.brooks@example.net,(503) 555-0157,Bluefen Pottery,Exhibitor,,wheelchair access,09/01/2026
+R1127,Zoe,Delgado,zoe.delgado@example.net,(503) 555-0141,Fernway Woodworks,General,gluten-free,,10/06/2026
+R1128,Grace,Collins,grace.collins@example.org,(503) 555-0146,Copper Kettle Forge,General,,,08/24/2026
+R1129,Elijah,Collins,elijah.collins@example.org,(503) 555-0115,Kestrel Bikes,General,vegetarian,,09/25/2026
+R1130,Hannah,Nguyen,hannah.nguyen@example.net,(503) 555-0117,Copper Kettle Forge,General,nut allergy,,09/14/2026
+R1131,Ryan,Okafor,ryan.okafor@example.com,(503) 555-0150,Fernway Woodworks,General,,wheelchair access,09/12/2026
+R1132,Chloe,Brooks,chloe.brooks@example.net,(503) 555-0112,Pinecrest Print Shop,General,,,10/10/2026
+R1133,Sadie,Turner,sadie.turner@example.com,(503) 555-0174,Kestrel Bikes,General,,,09/26/2026
+R1134,Hannah,Delgado,hannah.delgado@example.org,(503) 555-0101,Hollow Oak Candles,General,,,08/21/2026
+R1135,Marcus,Morgan,marcus.morgan@example.org,(503) 555-0111,Ashgrove Leather,General,vegetarian,,10/01/2026
+R1136,Owen,Collins,owen.collins@example.net,(503) 555-0147,Bluefen Pottery,Speaker,,,09/20/2026
+R1137,Zoe,Ward,zoe.ward@example.org,(503) 555-0121,Stonefield Knives,General,vegan,reserved front seating,09/25/2026
+R1138,Ethan,Abbott,ethan.abbott@example.org,(503) 555-0182,Ironbark Tools,Student,,hearing loop,10/08/2026
+R1139,Grace,Okafor,grace.okafor@example.net,(503) 555-0198,Lantern Glass Studio,General,nut allergy,,08/14/2026
+R1140,Lucas,Foster,lucas.foster@example.com,(503) 555-0124,Lantern Glass Studio,General,,,09/24/2026
+R1141,Julia,Hayes,julia.hayes@example.com,(503) 555-0157,Stonefield Knives,Exhibitor,,,10/10/2026
+R1142,Nora,Morgan,nora.morgan@example.net,(503) 555-0151,Lantern Glass Studio,General,nut allergy,,08/23/2026
+R1143,Olivia,Reed,olivia.reed@example.org,(503) 555-0183,Fernway Woodworks,General,,ASL interpreter,09/04/2026
+R1144,Ruby,Vance,ruby.vance@example.com,(503) 555-0124,Kestrel Bikes,General,,,08/22/2026
+R1145,Ethan,Kim,ethan.kim@example.net,(503) 555-0193,Saltmarsh Soap Co.,General,,,08/25/2026
+R1146,Aaron,Abbott,aaron.abbott@example.net,(503) 555-0104,Pinecrest Print Shop,General,,,10/01/2026
+R1147,Ethan,Price,ethan.price@example.net,(503) 555-0174,Kestrel Bikes,Exhibitor,vegetarian,,10/08/2026
+R1148,Emma,Price,emma.price@example.com,(503) 555-0177,Copper Kettle Forge,General,,,09/15/2026
+R1149,Ivy,Nguyen,ivy.nguyen@example.com,(503) 555-0101,Ashgrove Leather,Exhibitor,,,08/22/2026
+R1150,Noah,Ramirez,noah.ramirez@example.org,(503) 555-0163,Pinecrest Print Shop,General,,,08/19/2026
+R1151,Leah,Reed,leah.reed@example.net,(503) 555-0153,Lantern Glass Studio,General,,,10/12/2026
+R1152,Nora,Okafor,nora.okafor@example.net,(503) 555-0154,Hollow Oak Candles,General,,,09/06/2026
+R1153,Aaron,Collins,aaron.collins@example.com,(503) 555-0179,Wrenfield Paper,General,,,10/13/2026
+R1154,Ivy,Walker,ivy.walker@example.com,(503) 555-0197,Saltmarsh Soap Co.,General,vegan,,10/14/2026
+R1155,Ava,Foster,ava.foster@example.net,(503) 555-0153,Saltmarsh Soap Co.,General,gluten-free,,08/26/2026
+R1156,Marcus,Okafor,marcus.okafor@example.org,(503) 555-0116,Bluefen Pottery,Exhibitor,,,09/07/2026
+R1157,Olivia,Price,olivia.price@example.net,(503) 555-0143,Northfold Textiles,General,,,09/08/2026
+R1158,Maya,Abbott,maya.abbott@example.com,(503) 555-0135,Mossback Furniture,Exhibitor,vegetarian,,10/18/2026
+R1159,Daniel,Kim,daniel.kim@example.com,(503) 555-0136,Northfold Textiles,General,,,10/22/2026
+R1160,Maya,Brooks,maya.brooks@example.org,(503) 555-0128,Hollow Oak Candles,General,,,10/16/2026
+R1161,Sophia,Nguyen,sophia.nguyen@example.org,(503) 555-0125,Ironbark Tools,General,,,10/18/2026
+R1162,Elijah,Ramirez,elijah.ramirez@example.net,(503) 555-0143,Saltmarsh Soap Co.,Exhibitor,,,10/05/2026
+R1163,Ella,Delgado,ella.delgado@example.com,(503) 555-0110,Lantern Glass Studio,General,,,10/23/2026
+R1164,Ethan,Nguyen,ethan.nguyen@example.com,(503) 555-0182,Saltmarsh Soap Co.,Speaker,,,09/24/2026
+R1165,Aaron,Kim,aaron.kim@example.com,(503) 555-0172,Mossback Furniture,General,vegetarian,,09/24/2026
+R1166,Lucas,Brooks,lucas.brooks@example.com,(503) 555-0146,Hollow Oak Candles,Exhibitor,gluten-free,,09/05/2026
+R1167,Isaac,Morgan,isaac.morgan@example.org,(503) 555-0121,Copper Kettle Forge,General,shellfish allergy,,09/02/2026
+R1168,Sophia,Kim,sophia.kim@example.net,(503) 555-0193,Bluefen Pottery,Student,,ASL interpreter,09/16/2026
+R1169,Ivy,Price,ivy.price@example.net,(503) 555-0158,Kestrel Bikes,General,,,09/09/2026
+R1170,Wyatt,Abbott,wyatt.abbott@example.com,(503) 555-0186,Bluefen Pottery,General,,,09/22/2026
+R1171,Grace,Hayes,grace.hayes@example.org,(503) 555-0173,Saltmarsh Soap Co.,General,vegetarian,,09/06/2026
+R1172,Noah,Nguyen,noah.nguyen@example.com,(503) 555-0160,Bluefen Pottery,General,,,09/25/2026
+R1173,Ava,Walker,ava.walker@example.net,(503) 555-0189,Mossback Furniture,General,nut allergy,,09/08/2026
+R1174,Sophia,Collins,sophia.collins@example.net,(503) 555-0109,Hollow Oak Candles,Exhibitor,vegan,,10/16/2026
+R1175,Elijah,Lindqvist,elijah.lindqvist@example.net,(503) 555-0190,Ashgrove Leather,Speaker,vegetarian,,10/13/2026
+R1176,Daniel,Bennett,daniel.bennett@example.com,(503) 555-0167,Lantern Glass Studio,Exhibitor,,,08/20/2026
+R1177,Ruby,Walker,ruby.walker@example.net,(503) 555-0127,Saltmarsh Soap Co.,General,vegan,,09/07/2026
+R1178,Ruby,Chen,ruby.chen@example.net,(503) 555-0132,Saltmarsh Soap Co.,Exhibitor,,,09/16/2026
+R1179,Nathan,Hollis,nathan.hollis@example.org,(503) 555-0144,Ironbark Tools,General,,,10/28/2026
+R1180,Julia,Parker,julia.parker@example.org,(503) 555-0175,Wrenfield Paper,Student,,,10/25/2026
+R1181,Aaron,Parker,aaron.parker@example.net,(503) 555-0189,Northfold Textiles,General,gluten-free,hearing loop,09/05/2026
+R1182,Caleb,Kim,caleb.kim@example.com,(503) 555-0163,Ironbark Tools,Speaker,,,10/08/2026
+R1183,Julia,Foster,julia.foster@example.com,(503) 555-0175,Copper Kettle Forge,General,,,10/20/2026
+R1184,Sophia,Vance,sophia.vance@example.org,(503) 555-0175,Fernway Woodworks,General,,,08/29/2026
+R1185,Julia,Chen,julia.chen@example.com,(503) 555-0174,Wrenfield Paper,General,,,08/29/2026
+R1186,Ryan,Collins,ryan.collins@example.net,(503) 555-0176,Bluefen Pottery,Speaker,gluten-free,,09/24/2026
+R1187,Aaron,Bennett,aaron.bennett@example.com,(503) 555-0160,Kestrel Bikes,General,nut allergy,,08/17/2026
+R1188,Hannah,Carter,hannah.carter@example.org,(503) 555-0164,Bluefen Pottery,General,gluten-free,,09/26/2026
+R1189,Emma,Collins,emma.collins@example.net,(503) 555-0137,Copper Kettle Forge,Student,,,09/05/2026
+R1190,Tyler,Walker,tyler.walker@example.com,(503) 555-0160,Saltmarsh Soap Co.,Student,,,09/10/2026
+R1191,Liam,Turner,liam.turner@example.org,(503) 555-0113,Bluefen Pottery,General,vegetarian,,10/16/2026
+R1192,Olivia,Collins,olivia.collins@example.org,(503) 555-0155,Ironbark Tools,General,,,10/13/2026
+R1193,Sophia,Brooks,sophia.brooks@example.org,(503) 555-0173,Saltmarsh Soap Co.,Exhibitor,,,10/09/2026
+R1194,Liam,Lindqvist,liam.lindqvist@example.com,(503) 555-0120,Bluefen Pottery,Exhibitor,,,08/26/2026
+R1195,Ava,Chen,ava.chen@example.net,(503) 555-0188,Bluefen Pottery,Student,,,09/05/2026
+R1196,Julia,Morgan,julia.morgan@example.net,(503) 555-0173,Tidewater Ceramics,General,,,10/08/2026
+R1197,Liam,Reed,liam.reed@example.org,(503) 555-0168,Copper Kettle Forge,General,,,10/01/2026
+R1198,Grace,Bennett,grace.bennett@example.org,(503) 555-0109,Saltmarsh Soap Co.,Student,,,08/20/2026
+R1199,Ruby,Bennett,ruby.bennett@example.com,(503) 555-0153,Northfold Textiles,Exhibitor,vegetarian,,10/04/2026
+R1200,Leah,Bennett,leah.bennett@example.net,(503) 555-0160,Copper Kettle Forge,General,,,10/25/2026
+R1201,Aaron,Morgan,aaron.morgan@example.org,(503) 555-0181,Copper Kettle Forge,General,,,10/04/2026
+R1202,Sophia,Price,sophia.price@example.com,(503) 555-0162,Fernway Woodworks,Exhibitor,vegetarian,,09/03/2026
+R1203,Tyler,Okafor,tyler.okafor@example.com,(503) 555-0112,Hollow Oak Candles,Student,,,10/12/2026
+R1204,Sadie,Ward,sadie.ward@example.com,(503) 555-0125,Kestrel Bikes,General,,reserved front seating,10/14/2026
+R1205,Isaac,Reed,isaac.reed@example.com,(503) 555-0172,Ashgrove Leather,Speaker,gluten-free,,08/22/2026
+R1206,Chloe,Ramirez,chloe.ramirez@example.org,(503) 555-0138,Copper Kettle Forge,General,,,09/26/2026
+R1207,Owen,Morgan,owen.morgan@example.net,(503) 555-0180,Tidewater Ceramics,Exhibitor,,,10/21/2026
+R1208,Lucas,Abbott,lucas.abbott@example.org,(503) 555-0107,Fernway Woodworks,Exhibitor,,,09/19/2026
+R1209,Maya,Hayes,maya.hayes@example.org,(503) 555-0117,Bluefen Pottery,General,gluten-free,,10/08/2026
+R1210,Ryan,Sullivan,ryan.sullivan@example.net,(503) 555-0129,Bluefen Pottery,General,,,09/20/2026
+R1211,Tyler,Vance,tyler.vance@example.net,(503) 555-0148,Pinecrest Print Shop,General,,,09/22/2026
+R1212,Caleb,Price,caleb.price@example.net,(503) 555-0130,Fernway Woodworks,General,,reserved front seating,09/22/2026
+R1213,Aaron,Chen,aaron.chen@example.net,(503) 555-0185,Wrenfield Paper,Student,,,09/24/2026
+R1214,Nathan,Delgado,nathan.delgado@example.net,(503) 555-0121,Tidewater Ceramics,General,vegetarian,,10/18/2026
+R1215,Ethan,Chen,ethan.chen@example.com,(503) 555-0136,Saltmarsh Soap Co.,General,,,09/19/2026
+R1216,Caleb,Brooks,caleb.brooks@example.org,(503) 555-0157,Saltmarsh Soap Co.,General,vegetarian,wheelchair access,08/22/2026
+R1217,Noah,Carter,noah.carter@example.com,(503) 555-0161,Wrenfield Paper,General,,,09/19/2026
+R1218,Lily,Reed,lily.reed@example.com,(503) 555-0163,Mossback Furniture,General,nut allergy,,10/07/2026
+R1219,Ella,Morgan,ella.morgan@example.com,(503) 555-0152,Tidewater Ceramics,Exhibitor,,,09/18/2026
+R1220,Ava,Vance,ava.vance@example.com,(503) 555-0191,Bluefen Pottery,General,,,10/17/2026
+R1221,Liam,Price,liam.price@example.org,(503) 555-0140,Ashgrove Leather,Exhibitor,,,09/10/2026
+R1222,Liam,Sullivan,liam.sullivan@example.net,(503) 555-0149,Ironbark Tools,General,,,10/08/2026
+R1223,Marcus,Collins,marcus.collins@example.com,(503) 555-0174,Hollow Oak Candles,General,,,09/28/2026
+R1224,Nora,Brooks,nora.brooks@example.com,(503) 555-0137,Fernway Woodworks,Exhibitor,vegetarian,,10/06/2026
+R1225,James,Nguyen,james.nguyen@example.com,(503) 555-0151,Bluefen Pottery,General,nut allergy,,09/22/2026
+R1226,Olivia,Okafor,olivia.okafor@example.com,(503) 555-0100,Saltmarsh Soap Co.,General,vegan,,08/31/2026
+R1227,Liam,Okafor,liam.okafor@example.net,(503) 555-0108,Copper Kettle Forge,Exhibitor,,,08/15/2026
+R1228,Tyler,Kim,tyler.kim@example.com,(503) 555-0127,Ironbark Tools,Student,vegan,,09/18/2026
+R1229,Lily,Foster,lily.foster@example.net,(503) 555-0144,Hollow Oak Candles,General,,,09/01/2026
+R1230,Noah,Ward,noah.ward@example.com,(503) 555-0190,Bluefen Pottery,General,,wheelchair access,08/17/2026
+R1231,Aaron,Walker,aaron.walker@example.org,(503) 555-0116,Kestrel Bikes,General,,,10/18/2026
+R1232,Nathan,Brooks,nathan.brooks@example.net,(503) 555-0138,Pinecrest Print Shop,General,,hearing loop,10/24/2026
+R1233,Emma,Turner,emma.turner@example.net,(503) 555-0139,Tidewater Ceramics,General,,,10/27/2026
+R1234,Lucas,Delgado,lucas.delgado@example.com,(503) 555-0182,Fernway Woodworks,General,vegan,,09/08/2026
+R1235,Hannah,Brooks,hannah.brooks@example.org,(503) 555-0194,Tidewater Ceramics,General,,hearing loop,10/04/2026
+R1236,Noah,Price,noah.price@example.org,(503) 555-0146,Ashgrove Leather,Exhibitor,,,09/08/2026
+R1237,Liam,Vance,liam.vance@example.net,(503) 555-0163,Wrenfield Paper,General,,,09/03/2026
+R1238,Carlos,Kim,carlos.kim@example.net,(503) 555-0185,Bluefen Pottery,General,vegetarian,,09/07/2026
+R1239,Elijah,Nguyen,elijah.nguyen@example.com,(503) 555-0125,Ironbark Tools,General,,,09/05/2026
+R1240,Mia,Brooks,mia.brooks@example.net,(503) 555-0127,Ashgrove Leather,General,,,10/19/2026
+R1241,Ethan,Hollis,ethan.hollis@example.net,(503) 555-0132,Ironbark Tools,General,,,10/28/2026
+R1242,Maya,Collins,maya.collins@example.org,(503) 555-0153,Fernway Woodworks,Speaker,vegan,,09/03/2026
+R1243,Caleb,Delgado,caleb.delgado@example.net,(503) 555-0114,Copper Kettle Forge,Student,,wheelchair access,08/18/2026
+R1244,Maya,Lindqvist,maya.lindqvist@example.org,(503) 555-0132,Stonefield Knives,General,vegan,,10/02/2026
+R1245,Maya,Chen,maya.chen@example.com,(503) 555-0192,Mossback Furniture,General,vegetarian,,10/07/2026
+R1246,Nora,Hayes,nora.hayes@example.net,(503) 555-0104,Tidewater Ceramics,General,vegetarian,,08/22/2026
+R1247,Ethan,Sullivan,ethan.sullivan@example.com,(503) 555-0169,Lantern Glass Studio,General,,,10/22/2026
+R1248,Noah,Lindqvist,noah.lindqvist@example.org,(503) 555-0148,Wrenfield Paper,Speaker,,,09/21/2026
+R1249,Tyler,Bennett,tyler.bennett@example.com,(503) 555-0163,Wrenfield Paper,General,,,10/06/2026
+R1250,Noah,Hayes,noah.hayes@example.net,(503) 555-0174,Fernway Woodworks,General,,,09/13/2026
+R1251,Liam,Collins,liam.collins@example.com,(503) 555-0179,Ironbark Tools,Exhibitor,,,10/05/2026
+R1252,Nathan,Sullivan,nathan.sullivan@example.net,(503) 555-0106,Hollow Oak Candles,Exhibitor,vegetarian,,08/21/2026
+R1253,Carlos,Brooks,carlos.brooks@example.org,(503) 555-0180,Ironbark Tools,Exhibitor,,,09/01/2026
+R1254,Ella,Okafor,ella.okafor@example.com,(503) 555-0128,Ashgrove Leather,General,,,10/25/2026
+R1255,Tyler,Delgado,tyler.delgado@example.com,(503) 555-0125,Copper Kettle Forge,General,vegetarian,,08/16/2026
+R1256,Tyler,Hollis,tyler.hollis@example.com,(503) 555-0125,Mossback Furniture,General,,,09/17/2026
+R1257,Grace,Abbott,grace.abbott@example.net,(503) 555-0168,Ironbark Tools,Student,,,09/28/2026
+R1258,Wyatt,Walker,wyatt.walker@example.net,(503) 555-0113,Mossback Furniture,Speaker,,,10/27/2026
+R1259,Hannah,Kim,hannah.kim@example.net,(503) 555-0146,Pinecrest Print Shop,General,,,10/20/2026
+R1260,Wyatt,Hollis,wyatt.hollis@example.net,(503) 555-0197,Ashgrove Leather,General,,,10/27/2026
+R1261,Maya,Okafor,maya.okafor@example.com,(503) 555-0167,Bluefen Pottery,General,,,10/13/2026
+R1262,Marcus,Delgado,marcus.delgado@example.net,(503) 555-0146,Tidewater Ceramics,Exhibitor,,,09/30/2026
+R1263,Tyler,Price,tyler.price@example.com,(503) 555-0186,Tidewater Ceramics,Student,vegan,reserved front seating,08/29/2026
+R1264,Tyler,Ward,tyler.ward@example.org,(503) 555-0129,Stonefield Knives,Exhibitor,vegan,,10/26/2026
+R1265,Marcus,Hayes,marcus.hayes@example.net,(503) 555-0111,Ironbark Tools,General,,,09/26/2026
+R1266,Emma,Hollis,emma.hollis@example.com,(503) 555-0147,Ashgrove Leather,Student,,,09/17/2026
+R1267,Emma,Hayes,emma.hayes@example.net,(503) 555-0115,Stonefield Knives,General,,,09/08/2026
+R1268,Leah,Lindqvist,leah.lindqvist@example.net,(503) 555-0175,Copper Kettle Forge,General,,,09/18/2026
+R1269,Aaron,Vance,aaron.vance@example.com,(503) 555-0159,Stonefield Knives,General,,,10/01/2026
+R1270,Noah,Walker,noah.walker@example.net,(503) 555-0136,Ashgrove Leather,General,,,09/15/2026
+R1271,Isaac,Parker,isaac.parker@example.net,(503) 555-0107,Wrenfield Paper,General,,,10/14/2026
+R1272,Julia,Delgado,julia.delgado@example.net,(503) 555-0126,Ashgrove Leather,General,shellfish allergy,,09/25/2026
+R1273,Liam,Delgado,liam.delgado@example.com,(503) 555-0150,Saltmarsh Soap Co.,General,vegan,,10/06/2026
+R1274,Chloe,Chen,chloe.chen@example.net,(503) 555-0185,Copper Kettle Forge,General,,,10/30/2026
+R1275,Mia,Bennett,mia.bennett@example.org,(503) 555-0163,Pinecrest Print Shop,General,vegetarian,,08/24/2026
+R1276,Aaron,Hollis,aaron.hollis@example.org,(503) 555-0137,Ashgrove Leather,General,,,10/28/2026
+R1277,Ethan,Parker,ethan.parker@example.com,(503) 555-0150,Fernway Woodworks,General,nut allergy,,09/09/2026
+R1278,Aaron,Hayes,aaron.hayes@example.net,(503) 555-0171,Hollow Oak Candles,General,,,08/30/2026
+R1279,Owen,Ward,owen.ward@example.net,(503) 555-0146,Ironbark Tools,Exhibitor,,,08/30/2026
+R1280,Ivy,Brooks,ivy.brooks@example.org,(503) 555-0197,Copper Kettle Forge,Student,,,09/27/2026
+R1281,Wyatt,Hayes,wyatt.hayes@example.org,(503) 555-0179,Ironbark Tools,General,vegetarian,,10/22/2026
+R1282,Grace,Parker,grace.parker@example.com,(503) 555-0157,Ashgrove Leather,General,,,08/29/2026
+R1283,Marcus,Brooks,marcus.brooks@example.net,(503) 555-0194,Mossback Furniture,General,vegetarian,,08/29/2026
+R1284,Wyatt,Foster,wyatt.foster@example.net,(503) 555-0172,Ironbark Tools,General,,,08/16/2026
+R1285,Ethan,Foster,ethan.foster@example.net,(503) 555-0138,Copper Kettle Forge,General,vegan,,10/08/2026
+R1286,Ruby,Brooks,ruby.brooks@example.org,(503) 555-0106,Hollow Oak Candles,General,nut allergy,,10/07/2026
+R1287,Ivy,Chen,ivy.chen@example.org,(503) 555-0107,Pinecrest Print Shop,Student,vegetarian,,10/18/2026
+R1288,Isaac,Foster,isaac.foster@example.org,(503) 555-0187,Bluefen Pottery,Exhibitor,,,09/15/2026
+R1289,Mia,Turner,mia.turner@example.com,(503) 555-0119,Hollow Oak Candles,General,,,09/18/2026
+R1290,Ella,Lindqvist,ella.lindqvist@example.net,(503) 555-0150,Saltmarsh Soap Co.,General,vegan,reserved front seating,10/06/2026
+R1291,Mia,Abbott,mia.abbott@example.com,(503) 555-0131,Saltmarsh Soap Co.,General,,,09/17/2026
+R1292,Daniel,Foster,daniel.foster@example.com,(503) 555-0116,Ashgrove Leather,General,vegetarian,,10/23/2026
+R1293,Olivia,Delgado,olivia.delgado@example.net,(503) 555-0123,Ironbark Tools,Exhibitor,,,09/07/2026
+R1294,Lucas,Vance,lucas.vance@example.com,(503) 555-0193,Hollow Oak Candles,Student,,,10/08/2026
+R1295,Sadie,Lindqvist,sadie.lindqvist@example.org,(503) 555-0197,Fernway Woodworks,Speaker,,,10/06/2026
+R1296,Wyatt,Turner,wyatt.turner@example.org,(503) 555-0154,Ironbark Tools,General,gluten-free,,10/27/2026
+R1297,Lucas,Reed,lucas.reed@example.net,(503) 555-0150,Stonefield Knives,General,,,10/22/2026
+R1298,Zoe,Hayes,zoe.hayes@example.net,(503) 555-0193,Tidewater Ceramics,General,,,10/08/2026
+R1299,Tyler,Ramirez,tyler.ramirez@example.com,(503) 555-0195,Stonefield Knives,General,vegetarian,,09/03/2026
+R1300,Daniel,Chen,daniel.chen@example.net,(503) 555-0121,Ashgrove Leather,Exhibitor,nut allergy,,10/30/2026
+R1301,Carlos,Hollis,carlos.hollis@example.com,(503) 555-0160,Ironbark Tools,General,,,10/16/2026
+R1302,Wyatt,Nguyen,wyatt.nguyen@example.com,(503) 555-0169,Ironbark Tools,General,vegan,,09/15/2026
+R1303,Zoe,Kim,zoe.kim@example.org,(503) 555-0153,Northfold Textiles,General,,,08/31/2026
+R1304,Owen,Nguyen,owen.nguyen@example.com,(503) 555-0121,Tidewater Ceramics,General,,,10/02/2026
+R1305,Carlos,Bennett,carlos.bennett@example.net,(503) 555-0195,Tidewater Ceramics,Exhibitor,vegetarian,,10/28/2026
+R1306,Ivy,Delgado,ivy.delgado@example.com,(503) 555-0193,Wrenfield Paper,General,vegetarian,,10/15/2026
+R1307,Olivia,Hayes,olivia.hayes@example.com,(503) 555-0133,Ashgrove Leather,Student,,,10/02/2026
+R1308,Owen,Abbott,owen.abbott@example.com,(503) 555-0180,Mossback Furniture,General,,,09/10/2026
+R1309,Liam,Hayes,liam.hayes@example.com,(503) 555-0171,Hollow Oak Candles,Exhibitor,nut allergy,,10/02/2026
+R1310,Owen,Brooks,owen.brooks@example.org,(503) 555-0115,Ironbark Tools,Student,nut allergy,,10/08/2026
+R1311,Nora,Hollis,nora.hollis@example.org,(503) 555-0176,Mossback Furniture,General,vegetarian,,10/04/2026
+R1312,Aaron,Ward,aaron.ward@example.org,(503) 555-0156,Saltmarsh Soap Co.,General,,,10/13/2026
+R1313,James,Kim,james.kim@example.org,(503) 555-0188,Wrenfield Paper,General,vegetarian,,08/30/2026
+R1314,Marcus,Vance,marcus.vance@example.net,(503) 555-0130,Mossback Furniture,Exhibitor,,,09/28/2026
+R1315,Sadie,Parker,sadie.parker@example.com,(503) 555-0131,Northfold Textiles,General,,,10/24/2026
+R1316,Chloe,Hollis,chloe.hollis@example.com,(503) 555-0159,Bluefen Pottery,General,vegan,,09/12/2026
+R1317,Ava,Nguyen,ava.nguyen@example.org,(503) 555-0191,Bluefen Pottery,General,,,10/16/2026
+R1318,James,Ward,james.ward@example.net,(503) 555-0176,Saltmarsh Soap Co.,General,,,09/12/2026
+R1319,Nora,Delgado,nora.delgado@example.net,(503) 555-0139,Fernway Woodworks,Student,,,10/26/2026
+R1320,Olivia,Parker,olivia.parker@example.com,(503) 555-0142,Mossback Furniture,General,,,10/06/2026
+R1321,Lucas,Ramirez,lucas.ramirez@example.org,(503) 555-0106,Tidewater Ceramics,General,,,09/07/2026
+R1322,Sadie,Reed,sadie.reed@example.org,(503) 555-0117,Lantern Glass Studio,Speaker,vegetarian,,10/22/2026
+R1323,Sophia,Lindqvist,sophia.lindqvist@example.org,(503) 555-0164,Bluefen Pottery,General,vegetarian,wheelchair access,08/24/2026
+R1324,Daniel,Price,daniel.price@example.org,(503) 555-0163,Saltmarsh Soap Co.,General,,,08/23/2026
+R1325,Ava,Ramirez,ava.ramirez@example.org,(503) 555-0150,Stonefield Knives,Exhibitor,,,08/16/2026
+R1326,Chloe,Hayes,chloe.hayes@example.org,(503) 555-0128,Ironbark Tools,General,,,09/12/2026
+R1327,Lily,Collins,lily.collins@example.com,(503) 555-0147,Lantern Glass Studio,General,vegetarian,,10/25/2026
+R1328,Aaron,Okafor,aaron.okafor@example.com,(503) 555-0159,Ashgrove Leather,General,,,09/21/2026
+R1329,Nora,Price,nora.price@example.net,(503) 555-0181,Kestrel Bikes,General,vegetarian,,09/05/2026
+R1330,Julia,Nguyen,julia.nguyen@example.net,(503) 555-0168,Pinecrest Print Shop,General,,,10/27/2026
+R1331,Ella,Hollis,ella.hollis@example.net,(503) 555-0145,Bluefen Pottery,General,,,10/01/2026
+R1332,Hannah,Walker,hannah.walker@example.org,(503) 555-0122,Pinecrest Print Shop,Student,,,10/04/2026
+R1333,Daniel,Walker,daniel.walker@example.net,(503) 555-0173,Kestrel Bikes,General,,,10/05/2026
+R1334,Lily,Kim,lily.kim@example.com,(503) 555-0131,Ashgrove Leather,Exhibitor,vegetarian,,10/04/2026
+R1335,Nora,Ward,nora.ward@example.net,(503) 555-0106,Bluefen Pottery,General,,,09/29/2026
+R1336,Ivy,Ward,ivy.ward@example.org,(503) 555-0185,Northfold Textiles,General,,,10/20/2026
+R1337,Olivia,Carter,olivia.carter@example.org,(503) 555-0151,Ironbark Tools,General,vegan,reserved front seating,09/30/2026
+R1338,Leah,Sullivan,leah.sullivan@example.com,(503) 555-0177,Fernway Woodworks,Student,,,10/19/2026
+R1339,Ethan,Okafor,ethan.okafor@example.net,(503) 555-0159,Tidewater Ceramics,Student,,,10/17/2026
+R1340,Chloe,Kim,chloe.kim@example.org,(503) 555-0154,Copper Kettle Forge,Student,vegetarian,,10/25/2026
+R1341,Leah,Parker,leah.parker@example.net,(503) 555-0172,Kestrel Bikes,General,gluten-free,,10/04/2026
+R1342,Ruby,Nguyen,ruby.nguyen@example.net,(503) 555-0199,Copper Kettle Forge,General,,,09/05/2026
+R1343,Isaac,Vance,isaac.vance@example.org,(503) 555-0156,Lantern Glass Studio,General,,,10/08/2026
+R1344,Olivia,Ward,olivia.ward@example.com,(503) 555-0131,Hollow Oak Candles,Student,vegetarian,,09/27/2026
+R1345,Carlos,Foster,carlos.foster@example.com,(503) 555-0101,Wrenfield Paper,General,,,08/19/2026
+R1346,Ruby,Foster,ruby.foster@example.net,(503) 555-0144,Lantern Glass Studio,General,,,08/18/2026
+R1347,Grace,Sullivan,grace.sullivan@example.net,(503) 555-0190,Ashgrove Leather,General,vegan,,10/05/2026
+R1348,Maya,Reed,maya.reed@example.net,(503) 555-0156,Stonefield Knives,Exhibitor,,,08/18/2026
+R1349,Tyler,Collins,tyler.collins@example.com,(503) 555-0158,Fernway Woodworks,Student,,,10/10/2026
+R1350,Mia,Nguyen,mia.nguyen@example.net,(503) 555-0108,Ironbark Tools,General,vegetarian,,10/06/2026
+R1351,Maya,Turner,maya.turner@example.com,(503) 555-0143,Fernway Woodworks,General,,,10/18/2026
+R1352,Lily,Nguyen,lily.nguyen@example.com,(503) 555-0182,Wrenfield Paper,General,vegetarian,,08/19/2026
+R1353,Zoe,Collins,zoe.collins@example.net,(503) 555-0178,Fernway Woodworks,Student,,,09/25/2026
+R1354,Leah,Ward,leah.ward@example.com,(503) 555-0118,Wrenfield Paper,General,,,08/26/2026
+R1355,Chloe,Nguyen,chloe.nguyen@example.com,(503) 555-0127,Kestrel Bikes,General,,,10/11/2026
+R1356,Ivy,Morgan,ivy.morgan@example.com,(503) 555-0158,Wrenfield Paper,General,,hearing loop,09/17/2026
+R1357,Leah,Okafor,leah.okafor@example.org,(503) 555-0136,Saltmarsh Soap Co.,General,,,09/28/2026
+R1358,Sophia,Parker,sophia.parker@example.com,(503) 555-0142,Stonefield Knives,General,,,08/18/2026
+R1359,Caleb,Collins,caleb.collins@example.net,(503) 555-0176,Saltmarsh Soap Co.,Exhibitor,vegetarian,,08/25/2026
+R1360,Maya,Nguyen,maya.nguyen@example.com,(503) 555-0109,Bluefen Pottery,Exhibitor,,,09/26/2026
+R1361,Nora,Turner,nora.turner@example.com,(503) 555-0141,Northfold Textiles,Exhibitor,,,09/07/2026
+R1362,Emma,Reed,emma.reed@example.org,(503) 555-0134,Saltmarsh Soap Co.,General,,,10/13/2026
+R1363,Noah,Bennett,noah.bennett@example.net,(503) 555-0133,Fernway Woodworks,General,,,10/07/2026
+R1364,Maya,Parker,maya.parker@example.com,(503) 555-0175,Wrenfield Paper,Student,,,09/28/2026
+R1365,Ethan,Hayes,ethan.hayes@example.org,(503) 555-0139,Copper Kettle Forge,General,,,09/02/2026
+R1366,Carlos,Walker,carlos.walker@example.com,(503) 555-0173,Stonefield Knives,General,gluten-free,,10/04/2026
+R1367,Lucas,Turner,lucas.turner@example.org,(503) 555-0158,Ashgrove Leather,Exhibitor,,,08/27/2026
+R1368,Chloe,Morgan,chloe.morgan@example.org,(503) 555-0174,Saltmarsh Soap Co.,Student,,,08/20/2026
+R1369,Wyatt,Delgado,wyatt.delgado@example.com,(503) 555-0102,Lantern Glass Studio,General,,,08/25/2026
+R1370,Daniel,Ward,daniel.ward@example.net,(503) 555-0109,Pinecrest Print Shop,Exhibitor,,,08/30/2026
+R1371,Hannah,Foster,hannah.foster@example.org,(503) 555-0134,Kestrel Bikes,General,,,08/18/2026
+R1372,Liam,Foster,liam.foster@example.org,(503) 555-0112,Fernway Woodworks,General,,,09/10/2026
+R1373,Emma,Kim,emma.kim@example.net,(503) 555-0105,Lantern Glass Studio,Student,shellfish allergy,,10/23/2026
+R1374,Ruby,Morgan,ruby.morgan@example.net,(503) 555-0146,Pinecrest Print Shop,General,,,10/15/2026
+R1375,Emma,Parker,emma.parker@example.com,(503) 555-0115,Bluefen Pottery,General,,,10/04/2026
+R1376,Ethan,Bennett,ethan.bennett@example.org,(503) 555-0134,Ironbark Tools,Exhibitor,,,09/01/2026
+R1377,Lucas,Kim,lucas.kim@example.com,(503) 555-0167,Kestrel Bikes,General,,,08/21/2026
+R1378,Carlos,Nguyen,carlos.nguyen@example.com,(503) 555-0123,Ironbark Tools,General,,,10/15/2026
+R1379,Liam,Bennett,liam.bennett@example.net,(503) 555-0167,Tidewater Ceramics,Exhibitor,vegetarian,,10/14/2026
+R1380,Carlos,Vance,carlos.vance@example.org,(503) 555-0111,Ashgrove Leather,General,vegetarian,,09/05/2026
+R1381,Owen,Price,owen.price@example.org,(503) 555-0199,Kestrel Bikes,Exhibitor,,,10/28/2026
+R1382,Wyatt,Bennett,wyatt.bennett@example.net,(503) 555-0146,Mossback Furniture,General,gluten-free,,09/16/2026
+R1383,Sadie,Hayes,sadie.hayes@example.net,(503) 555-0160,Ashgrove Leather,General,,,09/21/2026
+R1384,Emma,Carter,emma.carter@example.com,(503) 555-0157,Mossback Furniture,General,,,09/21/2026
+R1385,Mia,Chen,mia.chen@example.org,(503) 555-0168,Saltmarsh Soap Co.,General,,,09/02/2026
+R1386,Leah,Turner,leah.turner@example.net,(503) 555-0106,Ironbark Tools,General,,,09/01/2026
+R1387,Noah,Hollis,noah.hollis@example.net,(503) 555-0122,Lantern Glass Studio,Student,,,09/17/2026
+R1388,Tyler,Nguyen,tyler.nguyen@example.com,(503) 555-0149,Stonefield Knives,General,,,10/12/2026
+R1389,Marcus,Parker,marcus.parker@example.com,(503) 555-0117,Fernway Woodworks,General,,,09/21/2026
+R1390,Noah,Abbott,noah.abbott@example.org,(503) 555-0112,Bluefen Pottery,General,,,08/21/2026
+R1391,Ella,Carter,ella.carter@example.com,(503) 555-0111,Stonefield Knives,General,,,10/11/2026
+R1392,Julia,Walker,julia.walker@example.org,(503) 555-0184,Stonefield Knives,Student,,,09/30/2026
+R1393,Aaron,Ramirez,aaron.ramirez@example.org,(503) 555-0159,Kestrel Bikes,General,,,08/22/2026
+R1394,Marcus,Hollis,marcus.hollis@example.org,(503) 555-0137,Bluefen Pottery,General,vegetarian,wheelchair access,10/17/2026
+R1395,Marcus,Foster,marcus.foster@example.net,(503) 555-0197,Wrenfield Paper,General,,,10/21/2026
+R1396,Daniel,Hollis,daniel.hollis@example.com,(503) 555-0106,Bluefen Pottery,Exhibitor,,,10/29/2026
+R1397,Chloe,Vance,CHLOE.VANCE@EXAMPLE.COM,(503) 555-0162,Copper Kettle Forge,Exhibitor,vegetarian,,11/01/2026
+R1398,Ethan ,Ward,ethan.ward@example.com,(503) 555-0148,Northfold Textiles,Speaker,,,11/01/2026
+R1399,Tyler,Okafor,tyler.okafor@example.com,(503) 555-0112,Hollow Oak Candles,Student,,,11/01/2026

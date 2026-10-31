@@ -1,4 +1,4 @@
-# Bramblewick Events: Service Price List 2026-2027
+# Bramblewick Events: Service Price List 2026
 
 ## Planning fees
 Event planning fee: $21 per attendee (minimum $4,500).
@@ -7,4 +7,4 @@ AV coordinator: $1,100 per day.
 Registration desk staff: $42 per hour per person.
 
 ## Notes
-Prices exclude tax. Valid January 1, 2026 to June 30, 2027. Replaces the 2025 list.
+Prices exclude tax. Valid January 1 to December 31, 2026. Replaces the 2025 list.
