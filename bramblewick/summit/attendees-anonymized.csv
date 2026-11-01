@@ -1,0 +1,401 @@
+attendee_code,ticket_type,dietary_needs,accessibility_needs,registered_on
+A001,General,,ASL interpreter,10/12/2026
+A002,General,,,08/18/2026
+A003,General,,,10/27/2026
+A004,Student,,,10/24/2026
+A005,General,,,09/21/2026
+A006,General,,,10/10/2026
+A007,Exhibitor,,,09/22/2026
+A008,General,,,09/09/2026
+A009,General,,,09/26/2026
+A010,General,shellfish allergy,,09/19/2026
+A011,General,vegetarian,,10/18/2026
+A012,General,,,10/29/2026
+A013,Exhibitor,vegetarian,,10/06/2026
+A014,General,,,09/15/2026
+A015,Exhibitor,,,08/26/2026
+A016,General,,,09/04/2026
+A017,General,nut allergy,,10/03/2026
+A018,General,,,08/16/2026
+A019,General,vegan,ASL interpreter,09/04/2026
+A020,Exhibitor,shellfish allergy,,09/05/2026
+A021,Exhibitor,,,10/25/2026
+A022,General,,,09/14/2026
+A023,General,vegan,,08/31/2026
+A024,General,,,09/30/2026
+A025,Exhibitor,,,09/30/2026
+A026,General,,,10/11/2026
+A027,Exhibitor,,,08/15/2026
+A028,General,,,08/29/2026
+A029,Student,,,10/01/2026
+A030,Speaker,,,08/26/2026
+A031,Speaker,nut allergy,,09/19/2026
+A032,General,vegetarian,,10/01/2026
+A033,General,,,08/31/2026
+A034,General,,,09/08/2026
+A035,General,,,09/18/2026
+A036,General,,,10/17/2026
+A037,General,gluten-free,,09/01/2026
+A038,General,nut allergy,,09/12/2026
+A039,General,,,08/14/2026
+A040,General,vegan,,08/28/2026
+A041,Exhibitor,,,09/14/2026
+A042,Exhibitor,,,09/12/2026
+A043,Exhibitor,gluten-free,,09/21/2026
+A044,General,,wheelchair access,10/28/2026
+A045,Exhibitor,,,10/21/2026
+A046,General,,,09/20/2026
+A047,General,,,09/24/2026
+A048,General,vegetarian,,10/14/2026
+A049,General,,,08/15/2026
+A050,General,vegan,,08/27/2026
+A051,Speaker,,,10/13/2026
+A052,General,,,10/21/2026
+A053,General,,,10/06/2026
+A054,General,nut allergy,,10/21/2026
+A055,General,,,10/16/2026
+A056,General,,,10/01/2026
+A057,General,vegan,,08/17/2026
+A058,Speaker,,,10/29/2026
+A059,Student,,,09/03/2026
+A060,Student,,,08/27/2026
+A061,General,,,10/23/2026
+A062,Student,nut allergy,,09/20/2026
+A063,General,,,09/18/2026
+A064,General,gluten-free,,08/26/2026
+A065,Student,vegan,,09/16/2026
+A066,General,gluten-free,,10/18/2026
+A067,General,,wheelchair access,10/26/2026
+A068,General,vegetarian,,08/18/2026
+A069,General,vegetarian,,08/20/2026
+A070,General,,,10/21/2026
+A071,Speaker,,,08/30/2026
+A072,General,vegan,,10/24/2026
+A073,General,,,10/23/2026
+A074,General,,,09/07/2026
+A075,Exhibitor,,,10/17/2026
+A076,Exhibitor,,,08/15/2026
+A077,General,,,08/26/2026
+A078,General,,,10/24/2026
+A079,General,vegetarian,wheelchair access,08/21/2026
+A080,General,,,10/04/2026
+A081,General,gluten-free,,10/14/2026
+A082,Exhibitor,,,10/30/2026
+A083,General,,wheelchair access,10/23/2026
+A084,General,,,09/16/2026
+A085,General,vegan,wheelchair access,10/24/2026
+A086,Speaker,,,09/23/2026
+A087,General,,,09/07/2026
+A088,Student,,,08/19/2026
+A089,General,,,09/07/2026
+A090,General,vegan,,10/18/2026
+A091,General,,,10/16/2026
+A092,General,nut allergy,,09/15/2026
+A093,General,,ASL interpreter,10/12/2026
+A094,General,,,10/14/2026
+A095,General,,,09/18/2026
+A096,General,,,10/07/2026
+A097,General,,,10/24/2026
+A098,Exhibitor,gluten-free,,08/21/2026
+A099,General,vegetarian,wheelchair access,09/19/2026
+A100,General,,,08/24/2026
+A101,General,vegetarian,hearing loop,09/11/2026
+A102,General,,wheelchair access,10/16/2026
+A103,General,nut allergy,,10/01/2026
+A104,General,,,10/29/2026
+A105,General,,,10/27/2026
+A106,General,,,10/05/2026
+A107,General,,,08/24/2026
+A108,Student,,,09/27/2026
+A109,Student,gluten-free,,10/10/2026
+A110,General,vegan,,08/31/2026
+A111,Exhibitor,,,09/19/2026
+A112,Exhibitor,,,09/08/2026
+A113,General,,,09/25/2026
+A114,Student,,,09/17/2026
+A115,General,shellfish allergy,,10/01/2026
+A116,General,gluten-free,,09/17/2026
+A117,General,,,09/30/2026
+A118,General,,,08/15/2026
+A119,General,,,08/31/2026
+A120,Exhibitor,vegan,,08/31/2026
+A121,General,vegetarian,,10/11/2026
+A122,Student,,,09/06/2026
+A123,General,,,09/14/2026
+A124,General,vegetarian,,09/14/2026
+A125,General,gluten-free,hearing loop,10/26/2026
+A126,Student,,,10/12/2026
+A127,Exhibitor,,wheelchair access,09/01/2026
+A128,General,gluten-free,,10/06/2026
+A129,General,,,08/24/2026
+A130,General,vegetarian,,09/25/2026
+A131,General,nut allergy,,09/14/2026
+A132,General,,wheelchair access,09/12/2026
+A133,General,,,10/10/2026
+A134,General,,,09/26/2026
+A135,General,,,08/21/2026
+A136,General,vegetarian,,10/01/2026
+A137,Speaker,,,09/20/2026
+A138,General,vegan,reserved front seating,09/25/2026
+A139,Student,,hearing loop,10/08/2026
+A140,General,nut allergy,,08/14/2026
+A141,General,,,09/24/2026
+A142,Exhibitor,,,10/10/2026
+A143,General,nut allergy,,08/23/2026
+A144,General,,ASL interpreter,09/04/2026
+A145,General,,,08/22/2026
+A146,General,,,08/25/2026
+A147,General,,,10/01/2026
+A148,Exhibitor,vegetarian,,10/08/2026
+A149,General,,,09/15/2026
+A150,Exhibitor,,,08/22/2026
+A151,General,,,08/19/2026
+A152,General,,,10/12/2026
+A153,General,,,09/06/2026
+A154,General,,,10/13/2026
+A155,General,vegan,,10/14/2026
+A156,General,gluten-free,,08/26/2026
+A157,Exhibitor,,,09/07/2026
+A158,General,,,09/08/2026
+A159,Exhibitor,vegetarian,,10/18/2026
+A160,General,,,10/22/2026
+A161,General,,,10/16/2026
+A162,General,,,10/18/2026
+A163,Exhibitor,,,10/05/2026
+A164,General,,,10/23/2026
+A165,Speaker,,,09/24/2026
+A166,General,vegetarian,,09/24/2026
+A167,Exhibitor,gluten-free,,09/05/2026
+A168,General,shellfish allergy,,09/02/2026
+A169,Student,,ASL interpreter,09/16/2026
+A170,General,,,09/09/2026
+A171,General,,,09/22/2026
+A172,General,vegetarian,,09/06/2026
+A173,General,,,09/25/2026
+A174,General,nut allergy,,09/08/2026
+A175,Exhibitor,vegan,,10/16/2026
+A176,Speaker,vegetarian,,10/13/2026
+A177,Exhibitor,,,08/20/2026
+A178,General,vegan,,09/07/2026
+A179,Exhibitor,,,09/16/2026
+A180,General,,,10/28/2026
+A181,Student,,,10/25/2026
+A182,General,gluten-free,hearing loop,09/05/2026
+A183,Speaker,,,10/08/2026
+A184,General,,,10/20/2026
+A185,General,,,08/29/2026
+A186,General,,,08/29/2026
+A187,Speaker,gluten-free,,09/24/2026
+A188,General,nut allergy,,08/17/2026
+A189,General,gluten-free,,09/26/2026
+A190,Student,,,09/05/2026
+A191,Student,,,09/10/2026
+A192,General,vegetarian,,10/16/2026
+A193,General,,,10/13/2026
+A194,Exhibitor,,,10/09/2026
+A195,Exhibitor,,,08/26/2026
+A196,Student,,,09/05/2026
+A197,General,,,10/08/2026
+A198,General,,,10/01/2026
+A199,Student,,,08/20/2026
+A200,Exhibitor,vegetarian,,10/04/2026
+A201,General,,,10/25/2026
+A202,General,,,10/04/2026
+A203,Exhibitor,vegetarian,,09/03/2026
+A204,Student,,,10/12/2026
+A205,General,,reserved front seating,10/14/2026
+A206,Speaker,gluten-free,,08/22/2026
+A207,General,,,09/26/2026
+A208,Exhibitor,,,10/21/2026
+A209,Exhibitor,,,09/19/2026
+A210,General,gluten-free,,10/08/2026
+A211,General,,,09/20/2026
+A212,General,,,09/22/2026
+A213,General,,reserved front seating,09/22/2026
+A214,Student,,,09/24/2026
+A215,General,vegetarian,,10/18/2026
+A216,General,,,09/19/2026
+A217,General,vegetarian,wheelchair access,08/22/2026
+A218,General,,,09/19/2026
+A219,General,nut allergy,,10/07/2026
+A220,Exhibitor,,,09/18/2026
+A221,General,,,10/17/2026
+A222,Exhibitor,,,09/10/2026
+A223,General,,,10/08/2026
+A224,General,,,09/28/2026
+A225,Exhibitor,vegetarian,,10/06/2026
+A226,General,nut allergy,,09/22/2026
+A227,General,vegan,,08/31/2026
+A228,Exhibitor,,,08/15/2026
+A229,Student,vegan,,09/18/2026
+A230,General,,,09/01/2026
+A231,General,,wheelchair access,08/17/2026
+A232,General,,,10/18/2026
+A233,General,,hearing loop,10/24/2026
+A234,General,,,10/27/2026
+A235,General,vegan,,09/08/2026
+A236,General,,hearing loop,10/04/2026
+A237,Exhibitor,,,09/08/2026
+A238,General,,,09/03/2026
+A239,General,vegetarian,,09/07/2026
+A240,General,,,09/05/2026
+A241,General,,,10/19/2026
+A242,General,,,10/28/2026
+A243,Speaker,vegan,,09/03/2026
+A244,Student,,wheelchair access,08/18/2026
+A245,General,vegan,,10/02/2026
+A246,General,vegetarian,,10/07/2026
+A247,General,vegetarian,,08/22/2026
+A248,General,,,10/22/2026
+A249,Speaker,,,09/21/2026
+A250,General,,,10/06/2026
+A251,General,,,09/13/2026
+A252,Exhibitor,,,10/05/2026
+A253,Exhibitor,vegetarian,,08/21/2026
+A254,Exhibitor,,,09/01/2026
+A255,General,,,10/25/2026
+A256,General,vegetarian,,08/16/2026
+A257,General,,,09/17/2026
+A258,Student,,,09/28/2026
+A259,Speaker,,,10/27/2026
+A260,General,,,10/20/2026
+A261,General,,,10/27/2026
+A262,General,,,10/13/2026
+A263,Exhibitor,,,09/30/2026
+A264,Student,vegan,reserved front seating,08/29/2026
+A265,Exhibitor,vegan,,10/26/2026
+A266,General,,,09/26/2026
+A267,Student,,,09/17/2026
+A268,General,,,09/08/2026
+A269,General,,,09/18/2026
+A270,General,,,10/01/2026
+A271,General,,,09/15/2026
+A272,General,,,10/14/2026
+A273,General,shellfish allergy,,09/25/2026
+A274,General,vegan,,10/06/2026
+A275,General,,,10/30/2026
+A276,General,vegetarian,,08/24/2026
+A277,General,,,10/28/2026
+A278,General,nut allergy,,09/09/2026
+A279,General,,,08/30/2026
+A280,Exhibitor,,,08/30/2026
+A281,Student,,,09/27/2026
+A282,General,vegetarian,,10/22/2026
+A283,General,,,08/29/2026
+A284,General,vegetarian,,08/29/2026
+A285,General,,,08/16/2026
+A286,General,vegan,,10/08/2026
+A287,General,nut allergy,,10/07/2026
+A288,Student,vegetarian,,10/18/2026
+A289,Exhibitor,,,09/15/2026
+A290,General,,,09/18/2026
+A291,General,vegan,reserved front seating,10/06/2026
+A292,General,,,09/17/2026
+A293,General,vegetarian,,10/23/2026
+A294,Exhibitor,,,09/07/2026
+A295,Student,,,10/08/2026
+A296,Speaker,,,10/06/2026
+A297,General,gluten-free,,10/27/2026
+A298,General,,,10/22/2026
+A299,General,,,10/08/2026
+A300,General,vegetarian,,09/03/2026
+A301,Exhibitor,nut allergy,,10/30/2026
+A302,General,,,10/16/2026
+A303,General,vegan,,09/15/2026
+A304,General,,,08/31/2026
+A305,General,,,10/02/2026
+A306,Exhibitor,vegetarian,,10/28/2026
+A307,General,vegetarian,,10/15/2026
+A308,Student,,,10/02/2026
+A309,General,,,09/10/2026
+A310,Exhibitor,nut allergy,,10/02/2026
+A311,Student,nut allergy,,10/08/2026
+A312,General,vegetarian,,10/04/2026
+A313,General,,,10/13/2026
+A314,General,vegetarian,,08/30/2026
+A315,Exhibitor,,,09/28/2026
+A316,General,,,10/24/2026
+A317,General,vegan,,09/12/2026
+A318,General,,,10/16/2026
+A319,General,,,09/12/2026
+A320,Student,,,10/26/2026
+A321,General,,,10/06/2026
+A322,General,,,09/07/2026
+A323,Speaker,vegetarian,,10/22/2026
+A324,General,vegetarian,wheelchair access,08/24/2026
+A325,General,,,08/23/2026
+A326,Exhibitor,,,08/16/2026
+A327,General,,,09/12/2026
+A328,General,vegetarian,,10/25/2026
+A329,General,,,09/21/2026
+A330,General,vegetarian,,09/05/2026
+A331,General,,,10/27/2026
+A332,General,,,10/01/2026
+A333,Student,,,10/04/2026
+A334,General,,,10/05/2026
+A335,Exhibitor,vegetarian,,10/04/2026
+A336,General,,,09/29/2026
+A337,General,,,10/20/2026
+A338,General,vegan,reserved front seating,09/30/2026
+A339,Student,,,10/19/2026
+A340,Student,,,10/17/2026
+A341,Student,vegetarian,,10/25/2026
+A342,General,gluten-free,,10/04/2026
+A343,General,,,09/05/2026
+A344,General,,,10/08/2026
+A345,Student,vegetarian,,09/27/2026
+A346,General,,,08/19/2026
+A347,General,,,08/18/2026
+A348,General,vegan,,10/05/2026
+A349,Exhibitor,,,08/18/2026
+A350,Student,,,10/10/2026
+A351,General,vegetarian,,10/06/2026
+A352,General,,,10/18/2026
+A353,General,vegetarian,,08/19/2026
+A354,Student,,,09/25/2026
+A355,General,,,08/26/2026
+A356,General,,,10/11/2026
+A357,General,,hearing loop,09/17/2026
+A358,General,,,09/28/2026
+A359,General,,,08/18/2026
+A360,Exhibitor,vegetarian,,08/25/2026
+A361,Exhibitor,,,09/26/2026
+A362,Exhibitor,,,09/07/2026
+A363,General,,,10/13/2026
+A364,General,,,10/07/2026
+A365,Student,,,09/28/2026
+A366,General,,,09/02/2026
+A367,General,gluten-free,,10/04/2026
+A368,Exhibitor,,,08/27/2026
+A369,Student,,,08/20/2026
+A370,General,,,08/25/2026
+A371,Exhibitor,,,08/30/2026
+A372,General,,,08/18/2026
+A373,General,,,09/10/2026
+A374,Student,shellfish allergy,,10/23/2026
+A375,General,,,10/15/2026
+A376,General,,,10/04/2026
+A377,Exhibitor,,,09/01/2026
+A378,General,,,08/21/2026
+A379,General,,,10/15/2026
+A380,Exhibitor,vegetarian,,10/14/2026
+A381,General,vegetarian,,09/05/2026
+A382,Exhibitor,,,10/28/2026
+A383,General,gluten-free,,09/16/2026
+A384,General,,,09/21/2026
+A385,General,,,09/21/2026
+A386,General,,,09/02/2026
+A387,General,,,09/01/2026
+A388,Student,,,09/17/2026
+A389,General,,,10/12/2026
+A390,General,,,09/21/2026
+A391,General,,,08/21/2026
+A392,General,,,10/11/2026
+A393,Student,,,09/30/2026
+A394,General,,,08/22/2026
+A395,General,vegetarian,wheelchair access,10/17/2026
+A396,General,,,10/21/2026
+A397,Exhibitor,,,10/29/2026
+A013,Exhibitor,vegetarian,,11/01/2026
+A058,Speaker,,,11/01/2026
+A204,Student,,,11/01/2026

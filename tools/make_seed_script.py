@@ -1,5 +1,5 @@
 """Build tools/seed.gs: a one-off Google Apps Script that loads the kit into
-the course's demo Google account (demo.account@example.com).
+a demo Google account that holds only the fictional company's files and emails.
 
   - Drive: moves any older copy of each kit PDF to the trash, then adds the
     current one, in the course's folders
@@ -8,18 +8,22 @@ the course's demo Google account (demo.account@example.com).
 The script needs the Gmail advanced service turned on in the Apps Script
 editor (Services > Gmail API).
 
-Run:  python3 tools/make_seed_script.py
+Run:  KIT_DEMO_ACCOUNT=you.demo@gmail.com python3 tools/make_seed_script.py
+
+Use a fresh account made only for this. The script refuses to run in any other account.
 """
 
 import base64
 import json
+import os
+import sys
 from pathlib import Path
 
 KIT = Path(__file__).resolve().parent.parent / "bramblewick"
 OUT = Path(__file__).resolve().parent / "seed.gs"
-DEMO = "demo.account@example.com"
+DEMO = os.environ.get("KIT_DEMO_ACCOUNT") or sys.exit("Set KIT_DEMO_ACCOUNT to the demo Google account's address.")
 
-# Drive folder ids in the demo account (created 2026-10-31).
+# Drive folder ids in the course's own demo account (created 2026-10-31). Replace them with your own folders.
 FOLDERS = {
     "company": "1kdbJaLaNQEoW8QlFxEOQM9aqkbjkbDlE",
     "summit": "1p9hUw6_5o6CsH8QR8owj1nzq4ptbW_QT",
