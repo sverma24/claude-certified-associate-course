@@ -2,7 +2,7 @@
 
 Claude Certified Associate Foundations course · cheat sheet
 
-## 2.0 Part 2: How Claude works, for people who don't code
+## F0 Part 2: How Claude works, for people who don't code
 
 
 

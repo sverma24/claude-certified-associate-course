@@ -1,7 +1,7 @@
 # Your turn: tasks and worked answers
 Every 'Your turn' task from the course, with the hint and the worked answer. Try each one before you read the answer. There is usually more than one good answer.
 
-## Part 1, 1.1 · What a Claude Associate does that a casual user doesn't
+## E1 · What a Claude Associate does that a casual user doesn't
 **Task:** Write down two tasks from your own week that a casual user would do one way and an Associate another way.
 
 *Hint:* Who is it for? What would you check before sending?
@@ -10,38 +10,38 @@ Every 'Your turn' task from the course, with the hint and the worked answer. Try
 
 *On screen:* weekly status email → give Claude the audience and decisions, check the numbers · summarise a policy → ask for quotes from the policy, verify the key rule
 
-## Part 1, 1.2 · The four Claude certifications, and where the Associate fits
-**Task:** Sort four tasks into "Associate" or "Developer / Architect": choosing a model for 500 short replies · an app that sends Claude's answers to customers by text · a checklist for reviewing Claude's drafts · connecting Claude to the CRM so it updates contacts
+## E2 · The four Claude certifications, and where the Associate fits
+**Task:** Sort four tasks into "Associate" or "Developer / Architect": choosing a model for 500 short replies · an app that sends Claude's answers to customers by text · a checklist for reviewing Claude's drafts · connecting Claude to the customer database so it updates contacts
 
 **Worked answer:** The model choice and the review checklist are Associate work, because they're decisions about how Claude is used. The text-message app and the database connection are builds, so they go to developers and architects.
 
-## Part 1, 1.3 · How the exam works: questions, time and scoring
+## E3 · How the exam works: questions, time and scoring
 **Task:** Work out your time budget: how many minutes for a first pass through 60 questions if you want 20 minutes left for review?
 
 **Worked answer:** One hundred and twenty minus twenty leaves one hundred minutes for sixty questions. That's one minute and forty seconds each, so if a question is taking much longer than that, flag it and keep moving.
 
 *On screen:* 120 − 20 = 100 minutes · 100 ÷ 60 ≈ 1 min 40 s per question
 
-## Part 1, 1.4 · Your self-check: where your study time should go
+## E4 · Your self-check: where your study time should go
 **Task:** Download the self-check from the course kit, score all 30 objectives, and highlight your three weakest.
 
 **Worked answer:** Welcome back. Keep that sheet somewhere you'll see it, because we'll come back to it after the seven domains.
 
-## Part 1, 1.5 · The blueprint: seven domains, thirty objectives
+## E5 · The blueprint: seven domains, thirty objectives
 **Task:** Without looking, write the seven domains in order, and mark the two biggest.
 
 **Worked answer:** Here they are. Prompting, output evaluation, product and model selection, workflow integration, configuration, governance, and troubleshooting. The two biggest are output evaluation at twenty-one percent, and workflow integration at sixteen.
 
 *On screen:* the seven bars again with the two biggest ringed: D2 21% and D4 16%
 
-## Part 1, 1.6 · The AI Fluency framework: the four Ds
+## E6 · The AI Fluency framework: the four Ds
 **Task:** Take one task from your week and write one line for each D.
 
 **Worked answer:** Here's mine for a weekly client update. I'd delegate the first draft. I'd describe who reads it, what decisions are pending and the tone we use. I'd check every date and number. And I'd send it under my own name, because I own it.
 
 *On screen:* Delegate: the first draft · Describe: audience, decisions, tone · Discern: check dates and numbers · Diligence: I send it under my name
 
-## Part 1, 1.7 · Meet Bramblewick Events, and your first week
+## E7 · Meet Bramblewick Events, and your first week
 **Task:** Read the client brief in the kit and list three things that could go wrong with this event.
 
 **Worked answer:** Here are mine from the brief alone. The catering decision is due within days. Accessibility failed last year, so the client will be watching it closely. And the budget is a hard cap, so any surprise cost has to be taken from somewhere else. There are more problems hidden in the other documents, and we'll find them together.
@@ -123,7 +123,7 @@ Every 'Your turn' task from the course, with the hint and the worked answer. Try
 ## 1.3 · Improving a result, one change at a time
 **Task:** Take the round-4 subject line and write the one instruction that fixes both problems, then count its characters yourself.
 
-**Worked answer:** Mine was, put Cascade Makers Summit back in the subject, include the dates, and keep it under fifty characters. A subject like Cascade Makers Summit, December ten to eleven, written with short dates, comes in at about thirty-three characters. Whatever Claude gives you, count it yourself.
+**Worked answer:** Mine was, put Cascade Makers Summit back in the subject, include the dates, and keep it under fifty characters. A subject like Cascade Makers Summit, December ten to eleven, written with the short dates you see on screen, comes in at about thirty-three characters. Whatever Claude gives you, count it yourself.
 
 *On screen:* instruction Put 'Cascade Makers Summit' back in the subject and keep it under 50 characters, dates included · example result Cascade Makers Summit · Dec 10–11 (33 characters)
 
@@ -228,7 +228,7 @@ Every 'Your turn' task from the course, with the hint and the worked answer. Try
 ## 5.4 · Keeping it current
 **Task:** Write the one instruction line that would stop your team's most important file going stale.
 
-**Worked answer:** Mine reads, use only the twenty twenty-six to twenty-seven sponsor pack. The owner is Priya in partnerships, who checks it on the first working day of each quarter. And if the pack in the files is out of date, say so, and don't quote from it.
+**Worked answer:** Mine reads, use only the sponsor pack for twenty twenty-six to twenty twenty-seven. The owner is Priya in partnerships, who checks it on the first working day of each quarter. And if the pack in the files is out of date, say so, and don't quote from it.
 
 *On screen:* Use only the 2026–27 sponsor pack. Owner: Priya in partnerships, checked on the first working day of each quarter. If the pack in the files is out of date, say so and don't quote from it.
 
@@ -303,7 +303,7 @@ Every 'Your turn' task from the course, with the hint and the worked answer. Try
 ## 7.2 · Adjusting from feedback, with fixes that stick
 **Task:** Where does each piece of feedback go? 1) "the venue's phone number changed" 2) "never use the word 'delegate' in our emails" 3) "make this one email shorter"
 
-**Worked answer:** The phone number is a fact, so replace the file in the knowledge. The word rule is a standing rule, so the instructions, or the brand guide in the knowledge. And the one shorter email is a one-time preference, so it stays in the chat.
+**Worked answer:** The phone number is a fact, so replace the file in the knowledge. The rule about the word delegate is a standing rule, so the instructions, or the brand guide in the knowledge. And the one shorter email is a one-time preference, so it stays in the chat.
 
 *On screen:* 1 → knowledge (replace the file) · 2 → instructions (or the brand guide in knowledge) · 3 → just this chat
 

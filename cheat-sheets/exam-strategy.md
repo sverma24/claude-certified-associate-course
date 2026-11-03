@@ -2,7 +2,7 @@
 
 Claude Certified Associate Foundations course · cheat sheet
 
-## 5.0 Part 5: Exam strategy
+## X0 Part 5: Exam strategy
 
 
 

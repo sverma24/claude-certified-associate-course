@@ -7,7 +7,7 @@ Every term defined on screen in the course, with the chapter that introduces it.
 | AI use policy | Your organization's rules for which AI tools may be used, for what, with which data, and who reviews the results | 6.3 |
 | anonymize | Replace or remove everything that identifies a person, so the data can't be traced back to them | 6.2 |
 | bottleneck | The step that slows the whole process down, so fixing it speeds up everything after it | 4.2 |
-| Claude Certified Associate | Someone who can apply Claude to business and productivity tasks with minimal guidance, and knows when to escalate | Part 1, 1.1 |
+| Claude Certified Associate | Someone who can apply Claude to business and productivity tasks with minimal guidance, and knows when to escalate | E1 |
 | complete | Nothing that matters is missing | 2.1 |
 | connector | A secure link that lets Claude read, and sometimes act in, an app you use, like Google Drive or Gmail | 5.2 |
 | context bleed | When details from one topic leak into work on another, because they share a chat or a memory | 3.4 |
@@ -28,7 +28,7 @@ Every term defined on screen in the course, with the chapter that introduces it.
 | prompt | Everything you give Claude to do a task: the request, the background, and how you'll judge the result | 1.1 |
 | prompt chaining | Doing those steps one after another, feeding each result into the next prompt | 1.2 |
 | requirements | What a piece of work must do, what would be nice, and what's still unknown, written down before you start | 4.1 |
-| scaled score | Your result converted to a scale from 100 to 1,000, so every version of the test is judged on the same standard | Part 1, 1.3 |
+| scaled score | Your result converted to a scale from 100 to 1,000, so every version of the test is judged on the same standard | E3 |
 | Skill | A saved set of instructions, and sometimes files, that Claude loads when a task calls for it, like a house style for proposals | 3.1 |
 | stakeholder | Anyone who has a say in, or is affected by, a decision, like a manager, a client or a team | 4.5 |
 | stale knowledge | A file in the project that was right once and isn't any more | 5.4 |

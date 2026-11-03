@@ -4,7 +4,7 @@ Claude Certified Associate Foundations course · cheat sheet
 
 ## 3.1 Choosing the right feature for the job
 
-Pick the feature by the job. Chat for one-offs, projects for ongoing work, search and Research for what's out there, artifacts for things you keep, code for exact numbers, Skills for routines, and Cowork for files on your computer.
+Pick the feature by the job. Chat for one-offs, projects for ongoing work, search and Research for what's out there, artifacts for things you keep, code for exact numbers, Skills for routines, and Cowork for multi-step work on files.
 Avoid: 1. Research for a quick lookup · 2. maths in plain chat instead of code · 3. re-pasting the same background into new chats
 
 ## 3.2 What each model is built for
